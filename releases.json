@@ -1,0 +1,728 @@
+{
+  "schemaVersion": 1,
+  "releases": [
+    {
+      "version": "1.0.27",
+      "build": "19",
+      "channel": "testflight",
+      "url": "https://testflight.apple.com/join/db4UByDC",
+      "locales": {
+        "en": {
+          "update": {
+            "title": "Update available",
+            "body": "Update available"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Log activities and calories burned",
+              "body": "Add activities, save favourites and see how they contribute to your calorie goal, with an adjustment for overlap with Steps."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "One conversation with MGM AI",
+              "body": "Estimate food and activities and ask questions about the app in the same conversation. Read answers as they arrive."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Your progress on the dashboard",
+              "body": "See your steps ring, weight trend and nutrition totals directly on your module cards."
+            }
+          ]
+        },
+        "zh": {
+          "update": {
+            "title": "有可用更新",
+            "body": "有可用更新"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "记录活动和消耗的热量",
+              "body": "添加活动、保存收藏，并查看它们对热量目标的贡献，同时对与步数模块重叠的部分进行调整。"
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "与 MGM AI 统一对话",
+              "body": "在同一对话中估算食物和活动，并咨询应用使用问题。回答生成时即可逐步阅读。"
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "在首页查看进度",
+              "body": "直接在模块卡片上查看步数进度环、体重趋势和营养总量。"
+            }
+          ]
+        },
+        "hi": {
+          "update": {
+            "title": "अपडेट उपलब्ध है",
+            "body": "अपडेट उपलब्ध है"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "गतिविधियाँ और खर्च हुई कैलोरी दर्ज करें",
+              "body": "गतिविधियाँ जोड़ें, पसंदीदा सहेजें और कैलोरी लक्ष्य में उनका योगदान देखें। कदम मॉड्यूल के साथ दोहराव का समायोजन होता है।"
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "MGM AI के साथ एक ही बातचीत",
+              "body": "एक ही बातचीत में भोजन और गतिविधियों का अनुमान लगाएँ और ऐप के बारे में सवाल पूछें। जवाब आते ही पढ़ें।"
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "डैशबोर्ड पर आपकी प्रगति",
+              "body": "मॉड्यूल कार्ड पर सीधे कदमों का रिंग, वजन का रुझान और पोषण का कुल योग देखें।"
+            }
+          ]
+        },
+        "es": {
+          "update": {
+            "title": "Actualización disponible",
+            "body": "Actualización disponible"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Registra actividades y calorías quemadas",
+              "body": "Añade actividades, guarda favoritos y consulta su contribución a tu objetivo calórico, con un ajuste por coincidencias con Pasos."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Una conversación con MGM AI",
+              "body": "Estima alimentos y actividades y pregunta sobre la app en la misma conversación. Lee las respuestas a medida que llegan."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Tu progreso en el panel",
+              "body": "Consulta el anillo de pasos, la tendencia de peso y los totales nutricionales directamente en las tarjetas de los módulos."
+            }
+          ]
+        },
+        "ar": {
+          "update": {
+            "title": "يتوفر تحديث",
+            "body": "يتوفر تحديث"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "سجّل الأنشطة والسعرات المحروقة",
+              "body": "أضف الأنشطة واحفظ المفضلة وشاهد مساهمتها في هدف السعرات، مع تصحيح التداخل مع وحدة الخطوات."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "محادثة واحدة مع MGM AI",
+              "body": "قدّر الأطعمة والأنشطة واطرح أسئلة عن التطبيق في المحادثة نفسها. اقرأ الإجابات فور وصول أجزائها."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "تقدمك على لوحة المعلومات",
+              "body": "شاهد حلقة الخطوات واتجاه الوزن وإجمالي التغذية مباشرة على بطاقات الوحدات."
+            }
+          ]
+        },
+        "fr": {
+          "update": {
+            "title": "Mise à jour disponible",
+            "body": "Mise à jour disponible"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Suivre les activités et les calories brûlées",
+              "body": "Ajoutez des activités, enregistrez des favoris et voyez leur contribution à votre objectif calorique, avec une correction des chevauchements avec Pas."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Une seule conversation avec MGM AI",
+              "body": "Estimez vos aliments et activités et posez des questions sur l’application dans la même conversation. Lisez les réponses à mesure qu’elles arrivent."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Votre progression sur le tableau de bord",
+              "body": "Consultez votre anneau de pas, l’évolution de votre poids et vos totaux nutritionnels directement sur les cartes des modules."
+            }
+          ]
+        },
+        "bn": {
+          "update": {
+            "title": "আপডেট উপলব্ধ",
+            "body": "আপডেট উপলব্ধ"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "কার্যকলাপ ও খরচ হওয়া ক্যালরি লিখে রাখুন",
+              "body": "কার্যকলাপ যোগ করুন, পছন্দেরগুলো সংরক্ষণ করুন এবং ক্যালরির লক্ষ্যে তাদের অবদান দেখুন। পদক্ষেপ মডিউলের সঙ্গে একসঙ্গে গণনা হওয়া অংশ সমন্বয় করা হয়।"
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "MGM AI-এর সঙ্গে একই কথোপকথন",
+              "body": "একই কথোপকথনে খাবার ও কার্যকলাপের আনুমানিক হিসাব নিন এবং অ্যাপ নিয়ে প্রশ্ন করুন। উত্তর আসার সঙ্গে সঙ্গে পড়ুন।"
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "ড্যাশবোর্ডে আপনার অগ্রগতি",
+              "body": "মডিউল কার্ডে সরাসরি পদক্ষেপের রিং, ওজনের প্রবণতা ও পুষ্টির মোট হিসাব দেখুন।"
+            }
+          ]
+        },
+        "pt": {
+          "update": {
+            "title": "Atualização disponível",
+            "body": "Atualização disponível"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Registre atividades e calorias queimadas",
+              "body": "Adicione atividades, salve favoritos e veja como contribuem para sua meta de calorias, com um ajuste para sobreposições com Passos."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Uma conversa com MGM AI",
+              "body": "Estime alimentos e atividades e tire dúvidas sobre o aplicativo na mesma conversa. Leia as respostas à medida que chegam."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Seu progresso no painel",
+              "body": "Veja seu anel de passos, a tendência de peso e os totais nutricionais diretamente nos cartões dos módulos."
+            }
+          ]
+        },
+        "id": {
+          "update": {
+            "title": "Pembaruan tersedia",
+            "body": "Pembaruan tersedia"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Catat aktivitas dan kalori terbakar",
+              "body": "Tambahkan aktivitas, simpan favorit, dan lihat kontribusinya terhadap target kalori, dengan penyesuaian untuk tumpang tindih dengan Langkah."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Satu percakapan dengan MGM AI",
+              "body": "Perkirakan makanan dan aktivitas serta tanyakan tentang aplikasi dalam percakapan yang sama. Baca jawaban saat diterima."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Kemajuan Anda di dasbor",
+              "body": "Lihat cincin langkah, tren berat badan, dan total nutrisi langsung pada kartu modul."
+            }
+          ]
+        },
+        "ur": {
+          "update": {
+            "title": "اپ ڈیٹ دستیاب ہے",
+            "body": "اپ ڈیٹ دستیاب ہے"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "سرگرمیاں اور خرچ ہونے والی کیلوریز درج کریں",
+              "body": "سرگرمیاں شامل کریں، پسندیدہ محفوظ کریں اور کیلوری کے ہدف میں ان کا حصہ دیکھیں۔ قدموں کے ماڈیول کے ساتھ دوہری گنتی کو درست کیا جاتا ہے۔"
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "MGM AI کے ساتھ ایک ہی گفتگو",
+              "body": "ایک ہی گفتگو میں خوراک اور سرگرمیوں کا اندازہ لگائیں اور ایپ کے بارے میں سوال پوچھیں۔ جوابات آتے ہی پڑھیں۔"
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "ڈیش بورڈ پر آپ کی پیش رفت",
+              "body": "ماڈیول کارڈز پر براہ راست قدموں کا حلقہ، وزن کا رجحان اور غذائیت کے مجموعے دیکھیں۔"
+            }
+          ]
+        },
+        "ru": {
+          "update": {
+            "title": "Доступно обновление",
+            "body": "Доступно обновление"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Записывайте активность и сожжённые калории",
+              "body": "Добавляйте занятия, сохраняйте избранное и смотрите их вклад в цель по калориям с поправкой на пересечения с модулем «Шаги»."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Один разговор с MGM AI",
+              "body": "Оценивайте питание и активность и задавайте вопросы о приложении в одном разговоре. Читайте ответы по мере поступления."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Ваш прогресс на главном экране",
+              "body": "Смотрите кольцо шагов, динамику веса и итоги питания прямо на карточках модулей."
+            }
+          ]
+        },
+        "de": {
+          "update": {
+            "title": "Update verfügbar",
+            "body": "Update verfügbar"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Aktivitäten und Kalorienverbrauch erfassen",
+              "body": "Füge Aktivitäten hinzu, speichere Favoriten und sieh ihren Beitrag zu deinem Kalorienziel, mit einer Korrektur für Überschneidungen mit Schritte."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Ein Gespräch mit MGM AI",
+              "body": "Schätze Lebensmittel und Aktivitäten und stelle Fragen zur App im selben Gespräch. Lies Antworten, während sie eintreffen."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Dein Fortschritt auf dem Dashboard",
+              "body": "Sieh deinen Schrittering, Gewichtsverlauf und deine Ernährungssummen direkt auf den Modulkarten."
+            }
+          ]
+        },
+        "ja": {
+          "update": {
+            "title": "アップデートがあります",
+            "body": "アップデートがあります"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "活動と消費カロリーを記録",
+              "body": "活動を追加してお気に入りに保存し、カロリー目標への反映を確認できます。歩数モジュールと重複する分は調整されます。"
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "MGM AIとの会話をひとつに",
+              "body": "同じ会話で食事や活動を推定し、アプリについて質問できます。回答は届いた部分から読めます。"
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "ダッシュボードで進捗を確認",
+              "body": "モジュールカードで歩数リング、体重の推移、栄養の合計を直接確認できます。"
+            }
+          ]
+        },
+        "vi": {
+          "update": {
+            "title": "Có bản cập nhật",
+            "body": "Có bản cập nhật"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Ghi lại hoạt động và calo đã đốt",
+              "body": "Thêm hoạt động, lưu mục yêu thích và xem đóng góp vào mục tiêu calo, có điều chỉnh phần trùng với mô-đun Bước chân."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Một cuộc trò chuyện với MGM AI",
+              "body": "Ước tính thực phẩm và hoạt động, đồng thời hỏi về ứng dụng trong cùng cuộc trò chuyện. Đọc câu trả lời ngay khi nội dung được gửi đến."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Tiến độ của bạn trên bảng điều khiển",
+              "body": "Xem vòng bước chân, xu hướng cân nặng và tổng dinh dưỡng ngay trên thẻ mô-đun."
+            }
+          ]
+        },
+        "mr": {
+          "update": {
+            "title": "अपडेट उपलब्ध आहे",
+            "body": "अपडेट उपलब्ध आहे"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "क्रियाकलाप आणि खर्च झालेल्या कॅलरी नोंदवा",
+              "body": "क्रियाकलाप जोडा, आवडते जतन करा आणि कॅलरीच्या उद्दिष्टातील त्यांचे योगदान पाहा. पावले मॉड्यूलसोबत दुहेरी मोजणी होणारा भाग समायोजित केला जातो."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "MGM AI सोबत एकच संभाषण",
+              "body": "एकाच संभाषणात अन्न आणि क्रियाकलापांचा अंदाज घ्या आणि ॲपबद्दल प्रश्न विचारा. उत्तरे येताच वाचा."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "डॅशबोर्डवर तुमची प्रगती",
+              "body": "मॉड्यूल कार्डवर थेट पावलांचे वर्तुळ, वजनातील कल आणि पोषणाची एकूण आकडेवारी पाहा."
+            }
+          ]
+        },
+        "te": {
+          "update": {
+            "title": "అప్‌డేట్ అందుబాటులో ఉంది",
+            "body": "అప్‌డేట్ అందుబాటులో ఉంది"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "కార్యకలాపాలు, ఖర్చైన కేలరీలు నమోదు చేయండి",
+              "body": "కార్యకలాపాలను జోడించి, ఇష్టమైనవి సేవ్ చేసి, కేలరీల లక్ష్యానికి వాటి సహకారం చూడండి. అడుగుల మాడ్యూల్‌తో రెండుసార్లు లెక్కించే భాగం సర్దుబాటు అవుతుంది."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "MGM AIతో ఒకే సంభాషణ",
+              "body": "ఒకే సంభాషణలో ఆహారం, కార్యకలాపాలను అంచనా వేయండి, యాప్ గురించి ప్రశ్నలు అడగండి. సమాధానాలు వస్తున్నప్పుడే చదవండి."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "డ్యాష్‌బోర్డ్‌లో మీ పురోగతి",
+              "body": "మాడ్యూల్ కార్డులపైనే అడుగుల వలయం, బరువు ధోరణి, పోషకాహార మొత్తాలు చూడండి."
+            }
+          ]
+        },
+        "sw": {
+          "update": {
+            "title": "Sasisho linapatikana",
+            "body": "Sasisho linapatikana"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Rekodi shughuli na kalori zilizochomwa",
+              "body": "Ongeza shughuli, hifadhi vipendwa na uone mchango wake kwenye lengo la kalori, huku sehemu zinazohesabiwa pia katika Hatua zikirekebishwa."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Mazungumzo moja na MGM AI",
+              "body": "Kadiria chakula na shughuli na uulize maswali kuhusu programu katika mazungumzo yale yale. Soma majibu yanapowasili."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Maendeleo yako kwenye dashibodi",
+              "body": "Ona duara la hatua, mwenendo wa uzito na jumla za lishe moja kwa moja kwenye kadi za moduli."
+            }
+          ]
+        },
+        "ha": {
+          "update": {
+            "title": "Akwai sabuntawa",
+            "body": "Akwai sabuntawa"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Rubuta ayyuka da kalorin da aka ƙone",
+              "body": "Ƙara ayyuka, adana waɗanda ka fi so, ka ga gudunmawarsu ga burin kalori, tare da gyaran ɓangaren da aka ƙirga a Matakai ma."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Tattaunawa ɗaya da MGM AI",
+              "body": "Ƙiyasta abinci da ayyuka, ka yi tambayoyi game da manhajar a tattaunawa ɗaya. Karanta amsoshi yayin da suke zuwa."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Ci gabanka a allon bayani",
+              "body": "Duba zoben matakai, yanayin nauyi da jimillar abinci mai gina jiki kai tsaye a katunan sassa."
+            }
+          ]
+        },
+        "nl": {
+          "update": {
+            "title": "Update beschikbaar",
+            "body": "Update beschikbaar"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Activiteiten en verbranding bijhouden",
+              "body": "Voeg activiteiten toe, bewaar favorieten en zie hoe ze bijdragen aan je caloriedoel, met een correctie voor overlap met Stappen."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Eén gesprek met MGM AI",
+              "body": "Schat voeding en activiteiten en stel vragen over de app in hetzelfde gesprek. Lees antwoorden terwijl ze binnenkomen."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Je voortgang op het dashboard",
+              "body": "Bekijk je stappenring, gewichtstrend en voedingstotalen direct op je modulekaarten."
+            }
+          ]
+        },
+        "it": {
+          "update": {
+            "title": "Aggiornamento disponibile",
+            "body": "Aggiornamento disponibile"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Registra attività e calorie bruciate",
+              "body": "Aggiungi attività, salva i preferiti e scopri il loro contributo al tuo obiettivo calorico, con una correzione per le sovrapposizioni con Passi."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Un’unica conversazione con MGM AI",
+              "body": "Stima alimenti e attività e fai domande sull’app nella stessa conversazione. Leggi le risposte man mano che arrivano."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "I tuoi progressi nella dashboard",
+              "body": "Visualizza l’anello dei passi, l’andamento del peso e i totali nutrizionali direttamente nelle schede dei moduli."
+            }
+          ]
+        },
+        "pl": {
+          "update": {
+            "title": "Dostępna aktualizacja",
+            "body": "Dostępna aktualizacja"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Zapisuj aktywności i spalone kalorie",
+              "body": "Dodawaj aktywności, zapisuj ulubione i sprawdzaj ich wkład w cel kaloryczny, z korektą nakładania się na dane modułu Kroki."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Jedna rozmowa z MGM AI",
+              "body": "Szacuj jedzenie i aktywności oraz pytaj o aplikację w tej samej rozmowie. Czytaj odpowiedzi w miarę ich napływania."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Twoje postępy na pulpicie",
+              "body": "Zobacz pierścień kroków, trend masy ciała i sumy żywieniowe bezpośrednio na kartach modułów."
+            }
+          ]
+        },
+        "tr": {
+          "update": {
+            "title": "Güncelleme mevcut",
+            "body": "Güncelleme mevcut"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Aktiviteleri ve yakılan kalorileri kaydedin",
+              "body": "Aktivite ekleyin, favorileri kaydedin ve Adımlar ile çakışan kısımlar düzeltilerek kalori hedefinize katkılarını görün."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "MGM AI ile tek bir sohbet",
+              "body": "Aynı sohbette besin ve aktivite tahminleri alın, uygulama hakkında sorular sorun. Yanıtları geldikçe okuyun."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "İlerlemeniz panoda",
+              "body": "Adım halkanızı, kilo eğiliminizi ve beslenme toplamlarınızı doğrudan modül kartlarında görün."
+            }
+          ]
+        },
+        "uk": {
+          "update": {
+            "title": "Доступне оновлення",
+            "body": "Доступне оновлення"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Записуйте активності та спалені калорії",
+              "body": "Додавайте заняття, зберігайте обране та переглядайте їхній внесок у ціль калорій із поправкою на перетини з модулем «Кроки»."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Одна розмова з MGM AI",
+              "body": "Оцінюйте їжу й активності та ставте запитання про застосунок в одній розмові. Читайте відповіді в міру надходження."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Ваш прогрес на головному екрані",
+              "body": "Переглядайте кільце кроків, динаміку ваги та підсумки харчування безпосередньо на картках модулів."
+            }
+          ]
+        },
+        "sv": {
+          "update": {
+            "title": "Uppdatering tillgänglig",
+            "body": "Uppdatering tillgänglig"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Logga aktiviteter och förbrända kalorier",
+              "body": "Lägg till aktiviteter, spara favoriter och se deras bidrag till ditt kalorimål, med justering för överlappning med Steg."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Ett samtal med MGM AI",
+              "body": "Uppskatta mat och aktiviteter och ställ frågor om appen i samma samtal. Läs svaren allt eftersom de kommer."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Dina framsteg på översikten",
+              "body": "Se din stegring, vikttrend och dina näringstotaler direkt på modulkorten."
+            }
+          ]
+        },
+        "da": {
+          "update": {
+            "title": "Opdatering tilgængelig",
+            "body": "Opdatering tilgængelig"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Registrér aktiviteter og forbrændte kalorier",
+              "body": "Tilføj aktiviteter, gem favoritter, og se deres bidrag til dit kaloriemål med korrektion for overlap med Skridt."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Én samtale med MGM AI",
+              "body": "Estimér mad og aktiviteter, og stil spørgsmål om appen i samme samtale. Læs svarene, efterhånden som de kommer."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Dine fremskridt på oversigten",
+              "body": "Se din skridtring, vægtudvikling og dine ernæringstotaler direkte på modulkortene."
+            }
+          ]
+        },
+        "no": {
+          "update": {
+            "title": "Oppdatering tilgjengelig",
+            "body": "Oppdatering tilgjengelig"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Registrer aktiviteter og forbrente kalorier",
+              "body": "Legg til aktiviteter, lagre favoritter og se bidraget til kalorimålet ditt, med justering for overlapp med Skritt."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Én samtale med MGM AI",
+              "body": "Anslå mat og aktiviteter og still spørsmål om appen i samme samtale. Les svarene etter hvert som de kommer."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Fremgangen din på oversikten",
+              "body": "Se skrittringen, vektutviklingen og ernæringssummene direkte på modulkortene."
+            }
+          ]
+        },
+        "fi": {
+          "update": {
+            "title": "Päivitys saatavilla",
+            "body": "Päivitys saatavilla"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Kirjaa aktiviteetit ja kulutetut kalorit",
+              "body": "Lisää aktiviteetteja, tallenna suosikkeja ja näe niiden vaikutus kaloritavoitteeseesi. Askeleet-moduulin kanssa päällekkäiset osuudet huomioidaan."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Yksi keskustelu MGM AI:n kanssa",
+              "body": "Arvioi ruokia ja aktiviteetteja sekä kysy sovelluksesta samassa keskustelussa. Lue vastaukset sitä mukaa kuin ne saapuvat."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Edistymisesi koontinäytöllä",
+              "body": "Näe askelrengas, painon kehitys ja ravitsemuksen kokonaismäärät suoraan moduulikorteilla."
+            }
+          ]
+        },
+        "cs": {
+          "update": {
+            "title": "Dostupná aktualizace",
+            "body": "Dostupná aktualizace"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Zapisujte aktivity a spálené kalorie",
+              "body": "Přidávejte aktivity, ukládejte oblíbené a sledujte jejich příspěvek ke kalorickému cíli s úpravou překryvu s modulem Kroky."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Jeden rozhovor s MGM AI",
+              "body": "Odhadujte jídlo a aktivity a ptejte se na aplikaci v jednom rozhovoru. Čtěte odpovědi průběžně, jak přicházejí."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Váš pokrok na přehledu",
+              "body": "Sledujte kruh kroků, vývoj hmotnosti a souhrny výživy přímo na kartách modulů."
+            }
+          ]
+        },
+        "ro": {
+          "update": {
+            "title": "Actualizare disponibilă",
+            "body": "Actualizare disponibilă"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Înregistrează activități și calorii arse",
+              "body": "Adaugă activități, salvează favorite și vezi contribuția lor la obiectivul caloric, cu o corecție pentru suprapunerea cu Pași."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "O singură conversație cu MGM AI",
+              "body": "Estimează alimente și activități și pune întrebări despre aplicație în aceeași conversație. Citește răspunsurile pe măsură ce sosesc."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Progresul tău pe panoul principal",
+              "body": "Vezi inelul pașilor, evoluția greutății și totalurile nutriționale direct pe cardurile modulelor."
+            }
+          ]
+        },
+        "hu": {
+          "update": {
+            "title": "Frissítés elérhető",
+            "body": "Frissítés elérhető"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Tevékenységek és elégetett kalóriák rögzítése",
+              "body": "Adj hozzá tevékenységeket, ments kedvenceket, és nézd meg a kalóriacélhoz való hozzájárulásukat, a Lépések modullal való átfedés korrekciójával."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Egy beszélgetés az MGM AI-val",
+              "body": "Becsüld meg az ételeket és tevékenységeket, és kérdezz az alkalmazásról ugyanabban a beszélgetésben. Olvasd a válaszokat, ahogy megérkeznek."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Haladásod az áttekintőn",
+              "body": "Nézd meg a lépésgyűrűt, a testsúly alakulását és a táplálkozási összesítést közvetlenül a modulkártyákon."
+            }
+          ]
+        },
+        "el": {
+          "update": {
+            "title": "Διαθέσιμη ενημέρωση",
+            "body": "Διαθέσιμη ενημέρωση"
+          },
+          "highlights": [
+            {
+              "id": "nutrition-activity-logging",
+              "title": "Καταγράψτε δραστηριότητες και θερμίδες που κάψατε",
+              "body": "Προσθέστε δραστηριότητες, αποθηκεύστε αγαπημένα και δείτε τη συμβολή τους στον στόχο θερμίδων, με διόρθωση της επικάλυψης με τα Βήματα."
+            },
+            {
+              "id": "mgm-ai-shared-chat",
+              "title": "Μία συνομιλία με το MGM AI",
+              "body": "Εκτιμήστε τρόφιμα και δραστηριότητες και κάντε ερωτήσεις για την εφαρμογή στην ίδια συνομιλία. Διαβάστε τις απαντήσεις καθώς φτάνουν."
+            },
+            {
+              "id": "dashboard-progress-overview",
+              "title": "Η πρόοδός σας στον πίνακα ελέγχου",
+              "body": "Δείτε τον δακτύλιο βημάτων, την τάση βάρους και τα σύνολα διατροφής απευθείας στις κάρτες ενοτήτων."
+            }
+          ]
+        }
+      },
+      "availableAt": "2026-09-13T02:44:08.773Z",
+      "expiresAt": "2026-12-11T18:33:49-08:00"
+    }
+  ]
+}
