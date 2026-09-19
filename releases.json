@@ -723,6 +723,729 @@
       },
       "availableAt": "2026-09-13T02:44:08.773Z",
       "expiresAt": "2026-12-11T18:33:49-08:00"
+    },
+    {
+      "version": "1.0.27",
+      "build": "20",
+      "channel": "testflight",
+      "url": "https://testflight.apple.com/join/db4UByDC",
+      "locales": {
+        "en": {
+          "update": {
+            "title": "Update available",
+            "body": "Update available"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Scan products with barcodes and AI",
+              "body": "Scan barcodes from around the world. If a product is still unknown, take a photo; MGM AI checks published product information first and shows the source used."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Your nutrition goal adapts with you",
+              "body": "Macro targets increase with extra calories burned, and the calorie overview adapts to gaining, losing or maintaining weight."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Estimate activities more accurately",
+              "body": "For suitable activities, optionally add details such as distance and time for a more accurate estimate of calories burned."
+            }
+          ]
+        },
+        "zh": {
+          "update": {
+            "title": "有可用更新",
+            "body": "有可用更新"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "使用条形码和 AI 扫描产品",
+              "body": "扫描世界各地的条形码。如果产品仍无法识别，请拍摄照片；MGM AI 会先查找已发布的产品信息，并显示所用来源。"
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "营养目标随你调整",
+              "body": "额外消耗热量后，宏量营养素目标会相应提高；热量概览也会根据增重、减重或维持体重目标进行调整。"
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "更准确地估算活动消耗",
+              "body": "对于适合的活动，可选择添加距离、时间等信息，以更准确地估算消耗的热量。"
+            }
+          ]
+        },
+        "hi": {
+          "update": {
+            "title": "अपडेट उपलब्ध है",
+            "body": "अपडेट उपलब्ध है"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "बारकोड और AI से उत्पाद स्कैन करें",
+              "body": "दुनिया भर के बारकोड स्कैन करें। अगर कोई उत्पाद फिर भी पहचाना न जाए, तो उसकी फ़ोटो लें; MGM AI पहले प्रकाशित उत्पाद जानकारी खोजता है और इस्तेमाल किया गया स्रोत दिखाता है।"
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "आपका पोषण लक्ष्य आपके साथ बदलता है",
+              "body": "अतिरिक्त कैलोरी खर्च होने पर मैक्रो लक्ष्य बढ़ते हैं और कैलोरी का अवलोकन वजन बढ़ाने, घटाने या बनाए रखने के लक्ष्य के अनुसार बदलता है।"
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "गतिविधियों का अधिक सटीक अनुमान",
+              "body": "उपयुक्त गतिविधियों में दूरी और समय जैसी वैकल्पिक जानकारी जोड़कर खर्च हुई कैलोरी का अधिक सटीक अनुमान पाएँ।"
+            }
+          ]
+        },
+        "es": {
+          "update": {
+            "title": "Actualización disponible",
+            "body": "Actualización disponible"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Escanea productos con códigos de barras e IA",
+              "body": "Escanea códigos de barras de todo el mundo. Si un producto sigue sin identificarse, hazle una foto; MGM AI consulta primero la información publicada del producto y muestra la fuente utilizada."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Tu objetivo nutricional se adapta a ti",
+              "body": "Los objetivos de macronutrientes aumentan con las calorías adicionales quemadas y el resumen calórico se adapta a tu objetivo de ganar, perder o mantener peso."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Calcula actividades con mayor precisión",
+              "body": "En las actividades compatibles, añade opcionalmente datos como la distancia y el tiempo para calcular con mayor precisión las calorías quemadas."
+            }
+          ]
+        },
+        "ar": {
+          "update": {
+            "title": "يتوفر تحديث",
+            "body": "يتوفر تحديث"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "امسح المنتجات بالباركود والذكاء الاصطناعي",
+              "body": "امسح رموز الباركود من جميع أنحاء العالم. إذا ظل المنتج غير معروف، فالتقط صورة له؛ يبحث MGM AI أولًا عن معلومات المنتج المنشورة ويعرض المصدر المستخدم."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "هدفك الغذائي يتكيف معك",
+              "body": "تزداد أهداف المغذيات الكبرى مع السعرات الإضافية المحروقة، ويتكيف ملخص السعرات مع هدف زيادة الوزن أو إنقاصه أو الحفاظ عليه."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "قدّر الأنشطة بدقة أكبر",
+              "body": "أضف اختياريًا تفاصيل مثل المسافة والوقت للأنشطة المناسبة للحصول على تقدير أدق للسعرات المحروقة."
+            }
+          ]
+        },
+        "fr": {
+          "update": {
+            "title": "Mise à jour disponible",
+            "body": "Mise à jour disponible"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Scannez des produits avec leur code-barres et l’IA",
+              "body": "Scannez des codes-barres du monde entier. Si un produit reste inconnu, prenez-le en photo ; MGM AI consulte d’abord les informations publiées sur le produit et affiche la source utilisée."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Votre objectif nutritionnel s’adapte à vous",
+              "body": "Les objectifs de macronutriments augmentent avec les calories supplémentaires brûlées, et le récapitulatif calorique s’adapte à votre objectif de prise, de perte ou de maintien du poids."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Estimez vos activités plus précisément",
+              "body": "Pour les activités compatibles, ajoutez facultativement des informations comme la distance et la durée afin d’estimer plus précisément les calories brûlées."
+            }
+          ]
+        },
+        "bn": {
+          "update": {
+            "title": "আপডেট পাওয়া যাচ্ছে",
+            "body": "আপডেট পাওয়া যাচ্ছে"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "বারকোড ও AI দিয়ে পণ্য স্ক্যান করুন",
+              "body": "বিশ্বজুড়ে বারকোড স্ক্যান করুন। কোনো পণ্য এখনও অজানা থাকলে তার ছবি তুলুন; MGM AI প্রথমে প্রকাশিত পণ্যের তথ্য খোঁজে এবং ব্যবহৃত উৎস দেখায়।"
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "আপনার পুষ্টির লক্ষ্য আপনার সঙ্গে মানিয়ে নেয়",
+              "body": "অতিরিক্ত ক্যালরি খরচ হলে ম্যাক্রোর লক্ষ্য বাড়ে এবং ক্যালরির সারাংশ ওজন বাড়ানো, কমানো বা ধরে রাখার লক্ষ্যের সঙ্গে মানিয়ে নেয়।"
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "কার্যকলাপ আরও নির্ভুলভাবে অনুমান করুন",
+              "body": "উপযুক্ত কার্যকলাপে চাইলে দূরত্ব ও সময়ের মতো তথ্য যোগ করে খরচ হওয়া ক্যালরির আরও নির্ভুল অনুমান পান।"
+            }
+          ]
+        },
+        "pt": {
+          "update": {
+            "title": "Atualização disponível",
+            "body": "Atualização disponível"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Digitalize produtos com códigos de barras e IA",
+              "body": "Digitalize códigos de barras de todo o mundo. Se um produto continuar desconhecido, tire uma fotografia; o MGM AI consulta primeiro as informações publicadas sobre o produto e mostra a fonte utilizada."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "O seu objetivo nutricional adapta-se a si",
+              "body": "Os objetivos de macronutrientes aumentam com as calorias adicionais gastas e o resumo calórico adapta-se ao objetivo de ganhar, perder ou manter peso."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Estime atividades com maior precisão",
+              "body": "Nas atividades adequadas, adicione opcionalmente dados como distância e tempo para obter uma estimativa mais precisa das calorias gastas."
+            }
+          ]
+        },
+        "id": {
+          "update": {
+            "title": "Pembaruan tersedia",
+            "body": "Pembaruan tersedia"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Pindai produk dengan kode batang dan AI",
+              "body": "Pindai kode batang dari seluruh dunia. Jika produk masih belum dikenali, ambil foto; MGM AI akan mencari informasi produk yang telah diterbitkan terlebih dahulu dan menampilkan sumber yang digunakan."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Target nutrisi menyesuaikan dengan Anda",
+              "body": "Target makro bertambah saat ada kalori tambahan yang terbakar, dan ringkasan kalori menyesuaikan dengan tujuan menaikkan, menurunkan, atau mempertahankan berat badan."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Perkirakan aktivitas dengan lebih akurat",
+              "body": "Untuk aktivitas yang sesuai, tambahkan detail opsional seperti jarak dan waktu agar perkiraan kalori yang terbakar lebih akurat."
+            }
+          ]
+        },
+        "ur": {
+          "update": {
+            "title": "اپ ڈیٹ دستیاب ہے",
+            "body": "اپ ڈیٹ دستیاب ہے"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "بارکوڈ اور AI سے مصنوعات اسکین کریں",
+              "body": "دنیا بھر کے بارکوڈ اسکین کریں۔ اگر کوئی مصنوعہ پھر بھی نامعلوم ہو تو اس کی تصویر لیں؛ MGM AI پہلے شائع شدہ معلومات تلاش کرتا ہے اور استعمال شدہ ماخذ دکھاتا ہے۔"
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "آپ کا غذائی ہدف آپ کے ساتھ ڈھلتا ہے",
+              "body": "اضافی کیلوریز جلنے پر میکرو اہداف بڑھتے ہیں اور کیلوری کا خلاصہ وزن بڑھانے، گھٹانے یا برقرار رکھنے کے ہدف کے مطابق ڈھلتا ہے۔"
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "سرگرمیوں کا زیادہ درست اندازہ لگائیں",
+              "body": "موزوں سرگرمیوں کے لیے اختیاری طور پر فاصلہ اور وقت جیسی تفصیلات شامل کریں تاکہ جلنے والی کیلوریز کا زیادہ درست اندازہ مل سکے۔"
+            }
+          ]
+        },
+        "ru": {
+          "update": {
+            "title": "Доступно обновление",
+            "body": "Доступно обновление"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Сканируйте продукты по штрихкоду и с помощью ИИ",
+              "body": "Сканируйте штрихкоды со всего мира. Если продукт всё ещё не распознан, сфотографируйте его: MGM AI сначала проверит опубликованную информацию о продукте и покажет использованный источник."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Ваша цель питания подстраивается под вас",
+              "body": "Цели по макронутриентам увеличиваются с дополнительным расходом калорий, а сводка калорий адаптируется к набору, снижению или поддержанию веса."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Точнее оценивайте расход при активности",
+              "body": "Для подходящих видов активности можно дополнительно указать расстояние и время, чтобы точнее рассчитать расход калорий."
+            }
+          ]
+        },
+        "de": {
+          "update": {
+            "title": "Update verfügbar",
+            "body": "Update verfügbar"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Produkte per Barcode und KI scannen",
+              "body": "Scanne Barcodes aus aller Welt. Ist ein Produkt noch unbekannt, fotografiere es; MGM AI prüft zuerst veröffentlichte Produktinformationen und zeigt die verwendete Quelle an."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Dein Ernährungsziel passt sich dir an",
+              "body": "Makroziele steigen mit zusätzlich verbrannten Kalorien und die Kalorienübersicht passt sich deinem Ziel an, Gewicht zuzunehmen, abzunehmen oder zu halten."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Aktivitäten genauer schätzen",
+              "body": "Ergänze bei geeigneten Aktivitäten optional Angaben wie Distanz und Zeit, um den Kalorienverbrauch genauer zu berechnen."
+            }
+          ]
+        },
+        "ja": {
+          "update": {
+            "title": "アップデートがあります",
+            "body": "アップデートがあります"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "バーコードとAIで商品をスキャン",
+              "body": "世界中のバーコードをスキャンできます。商品が見つからない場合は写真を撮影してください。MGM AIがまず公開されている商品情報を調べ、使用した情報源を表示します。"
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "栄養目標があなたに合わせて調整",
+              "body": "追加で消費したカロリーに応じてマクロ目標が増え、カロリー概要も増量・減量・体重維持の目標に合わせて調整されます。"
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "アクティビティをより正確に推定",
+              "body": "対応するアクティビティでは、距離や時間などの情報を任意で追加し、消費カロリーをより正確に推定できます。"
+            }
+          ]
+        },
+        "vi": {
+          "update": {
+            "title": "Có bản cập nhật",
+            "body": "Có bản cập nhật"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Quét sản phẩm bằng mã vạch và AI",
+              "body": "Quét mã vạch từ khắp nơi trên thế giới. Nếu vẫn chưa nhận diện được sản phẩm, hãy chụp ảnh; MGM AI sẽ tìm thông tin sản phẩm đã công bố trước và hiển thị nguồn đã dùng."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Mục tiêu dinh dưỡng thích ứng với bạn",
+              "body": "Mục tiêu dinh dưỡng đa lượng tăng theo lượng calo đốt thêm, còn tổng quan calo thích ứng với mục tiêu tăng, giảm hoặc duy trì cân nặng."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Ước tính hoạt động chính xác hơn",
+              "body": "Với các hoạt động phù hợp, bạn có thể thêm thông tin như quãng đường và thời gian để ước tính lượng calo đốt cháy chính xác hơn."
+            }
+          ]
+        },
+        "mr": {
+          "update": {
+            "title": "अपडेट उपलब्ध आहे",
+            "body": "अपडेट उपलब्ध आहे"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "बारकोड आणि AI वापरून उत्पादने स्कॅन करा",
+              "body": "जगभरातील बारकोड स्कॅन करा. उत्पादन अजूनही ओळखले गेले नाही तर त्याचा फोटो घ्या; MGM AI प्रथम प्रकाशित उत्पादन माहिती शोधते आणि वापरलेला स्रोत दाखवते."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "तुमचे पोषण लक्ष्य तुमच्यानुसार बदलते",
+              "body": "अतिरिक्त कॅलरी खर्च झाल्यावर मॅक्रोची उद्दिष्टे वाढतात आणि कॅलरीचा आढावा वजन वाढवणे, कमी करणे किंवा कायम ठेवण्याच्या उद्दिष्टानुसार बदलतो."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "क्रियाकलापांचा अधिक अचूक अंदाज घ्या",
+              "body": "योग्य क्रियाकलापांसाठी अंतर आणि वेळ यांसारखी ऐच्छिक माहिती जोडा, जेणेकरून खर्च झालेल्या कॅलरींचा अधिक अचूक अंदाज मिळेल."
+            }
+          ]
+        },
+        "te": {
+          "update": {
+            "title": "అప్‌డేట్ అందుబాటులో ఉంది",
+            "body": "అప్‌డేట్ అందుబాటులో ఉంది"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "బార్‌కోడ్, AIతో ఉత్పత్తులను స్కాన్ చేయండి",
+              "body": "ప్రపంచవ్యాప్తంగా ఉన్న బార్‌కోడ్‌లను స్కాన్ చేయండి. ఉత్పత్తి ఇంకా గుర్తించబడకపోతే ఫోటో తీయండి; MGM AI ముందుగా ప్రచురిత ఉత్పత్తి సమాచారాన్ని వెతికి, ఉపయోగించిన మూలాన్ని చూపుతుంది."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "మీ పోషకాహార లక్ష్యం మీకు అనుగుణంగా మారుతుంది",
+              "body": "అదనంగా కేలరీలు ఖర్చైనప్పుడు మాక్రో లక్ష్యాలు పెరుగుతాయి; కేలరీల అవలోకనం బరువు పెరగడం, తగ్గడం లేదా నిలుపుకోవడం అనే మీ లక్ష్యానికి అనుగుణంగా మారుతుంది."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "కార్యకలాపాలను మరింత ఖచ్చితంగా అంచనా వేయండి",
+              "body": "తగిన కార్యకలాపాలకు దూరం, సమయం వంటి వివరాలను ఐచ్ఛికంగా జోడించి ఖర్చైన కేలరీలను మరింత ఖచ్చితంగా అంచనా వేయండి."
+            }
+          ]
+        },
+        "sw": {
+          "update": {
+            "title": "Sasisho linapatikana",
+            "body": "Sasisho linapatikana"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Changanua bidhaa kwa misimbo pau na AI",
+              "body": "Changanua misimbo pau kutoka kote duniani. Ikiwa bidhaa bado haijatambuliwa, piga picha; MGM AI hutafuta kwanza taarifa za bidhaa zilizochapishwa na huonyesha chanzo kilichotumiwa."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Lengo lako la lishe linabadilika kulingana na wewe",
+              "body": "Malengo ya virutubishi vikuu huongezeka unapochoma kalori za ziada, na muhtasari wa kalori hubadilika kulingana na lengo la kuongeza, kupunguza au kudumisha uzito."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Kadiria shughuli kwa usahihi zaidi",
+              "body": "Kwa shughuli zinazofaa, ongeza kwa hiari maelezo kama umbali na muda ili kupata makadirio sahihi zaidi ya kalori zilizochomwa."
+            }
+          ]
+        },
+        "ha": {
+          "update": {
+            "title": "Akwai sabuntawa",
+            "body": "Akwai sabuntawa"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Duba kayayyaki da lambar barcode da AI",
+              "body": "Duba lambobin barcode daga ko’ina cikin duniya. Idan har yanzu ba a san samfurin ba, ɗauki hoto; MGM AI zai fara neman bayanan samfurin da aka wallafa sannan ya nuna tushen da aka yi amfani da shi."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Burin abincinka yana daidaitawa da kai",
+              "body": "Burin manyan sinadarai yana ƙaruwa da ƙarin kalorin da aka ƙone, sannan taƙaitaccen kalori yana daidaitawa da burin ƙara, rage ko riƙe nauyi."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Ƙiyasta ayyuka daidai sosai",
+              "body": "Ga ayyukan da suka dace, za ka iya ƙara bayanai kamar nisa da lokaci domin samun ƙiyasin kalorin da aka ƙone mafi daidai."
+            }
+          ]
+        },
+        "nl": {
+          "update": {
+            "title": "Update beschikbaar",
+            "body": "Update beschikbaar"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Producten scannen met barcode en AI",
+              "body": "Scan barcodes wereldwijd. Is een product nog onbekend, maak dan een foto; MGM AI zoekt eerst gepubliceerde productinformatie en toont de gebruikte bron."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Je voedingsdoel beweegt met je mee",
+              "body": "Macrodoelen groeien mee met extra verbranding en het calorieoverzicht past zich aan op aankomen, afvallen of gewicht behouden."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Nauwkeuriger activiteiten schatten",
+              "body": "Voeg bij geschikte activiteiten optioneel gegevens zoals afstand en tijd toe voor een betere berekening van je verbranding."
+            }
+          ]
+        },
+        "it": {
+          "update": {
+            "title": "Aggiornamento disponibile",
+            "body": "Aggiornamento disponibile"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Scansiona i prodotti con codici a barre e IA",
+              "body": "Scansiona codici a barre da tutto il mondo. Se un prodotto è ancora sconosciuto, scatta una foto; MGM AI cerca prima le informazioni pubblicate sul prodotto e mostra la fonte utilizzata."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Il tuo obiettivo nutrizionale si adatta a te",
+              "body": "Gli obiettivi dei macronutrienti aumentano con le calorie extra bruciate e il riepilogo calorico si adatta all’obiettivo di aumentare, perdere o mantenere il peso."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Stima le attività con maggiore precisione",
+              "body": "Per le attività adatte, aggiungi facoltativamente dati come distanza e tempo per stimare con maggiore precisione le calorie bruciate."
+            }
+          ]
+        },
+        "pl": {
+          "update": {
+            "title": "Dostępna aktualizacja",
+            "body": "Dostępna aktualizacja"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Skanuj produkty za pomocą kodów kreskowych i AI",
+              "body": "Skanuj kody kreskowe z całego świata. Jeśli produkt nadal jest nierozpoznany, zrób zdjęcie; MGM AI najpierw sprawdzi opublikowane informacje o produkcie i pokaże użyte źródło."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Twój cel żywieniowy dopasowuje się do Ciebie",
+              "body": "Cele makroskładników rosną wraz z dodatkowymi spalonymi kaloriami, a podsumowanie kalorii dopasowuje się do celu zwiększenia, zmniejszenia lub utrzymania masy ciała."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Dokładniej szacuj aktywności",
+              "body": "Przy odpowiednich aktywnościach możesz opcjonalnie dodać dane, takie jak dystans i czas, aby dokładniej oszacować spalone kalorie."
+            }
+          ]
+        },
+        "tr": {
+          "update": {
+            "title": "Güncelleme mevcut",
+            "body": "Güncelleme mevcut"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Ürünleri barkod ve yapay zekâyla tarayın",
+              "body": "Dünyanın her yerinden barkodları tarayın. Ürün hâlâ tanınmıyorsa fotoğrafını çekin; MGM AI önce yayımlanmış ürün bilgilerini arar ve kullanılan kaynağı gösterir."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Beslenme hedefiniz size uyum sağlar",
+              "body": "Ek kalori yaktığınızda makro hedefleri artar; kalori özeti de kilo alma, verme veya koruma hedefinize uyum sağlar."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Aktiviteleri daha doğru tahmin edin",
+              "body": "Uygun aktivitelerde mesafe ve süre gibi bilgileri isteğe bağlı olarak ekleyip yakılan kaloriyi daha doğru hesaplayın."
+            }
+          ]
+        },
+        "uk": {
+          "update": {
+            "title": "Доступне оновлення",
+            "body": "Доступне оновлення"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Скануйте продукти за штрихкодом і за допомогою ШІ",
+              "body": "Скануйте штрихкоди з усього світу. Якщо продукт усе ще не розпізнано, сфотографуйте його: MGM AI спочатку перевірить опубліковану інформацію про продукт і покаже використане джерело."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Ваша ціль харчування підлаштовується під вас",
+              "body": "Цілі макронутрієнтів зростають із додатково витраченими калоріями, а огляд калорій адаптується до набору, зниження або підтримання ваги."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Точніше оцінюйте витрати під час активності",
+              "body": "Для відповідних видів активності можна додатково вказати відстань і час, щоб точніше розрахувати витрачені калорії."
+            }
+          ]
+        },
+        "sv": {
+          "update": {
+            "title": "Uppdatering tillgänglig",
+            "body": "Uppdatering tillgänglig"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Skanna produkter med streckkoder och AI",
+              "body": "Skanna streckkoder från hela världen. Om en produkt fortfarande är okänd kan du ta ett foto; MGM AI söker först efter publicerad produktinformation och visar källan som användes."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Ditt näringsmål anpassar sig efter dig",
+              "body": "Makromålen ökar med extra förbrända kalorier och kaloriöversikten anpassas efter målet att gå upp, gå ner eller behålla vikten."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Beräkna aktiviteter mer exakt",
+              "body": "För lämpliga aktiviteter kan du lägga till uppgifter som sträcka och tid för en mer exakt beräkning av förbrända kalorier."
+            }
+          ]
+        },
+        "da": {
+          "update": {
+            "title": "Opdatering tilgængelig",
+            "body": "Opdatering tilgængelig"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Scan produkter med stregkoder og AI",
+              "body": "Scan stregkoder fra hele verden. Hvis et produkt stadig er ukendt, kan du tage et billede; MGM AI søger først efter offentliggjorte produktoplysninger og viser den anvendte kilde."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Dit ernæringsmål tilpasser sig dig",
+              "body": "Makromålene stiger med ekstra forbrændte kalorier, og kalorieoversigten tilpasser sig målet om at tage på, tabe sig eller holde vægten."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Beregn aktiviteter mere præcist",
+              "body": "Ved egnede aktiviteter kan du valgfrit tilføje oplysninger som distance og tid for en mere præcis beregning af forbrændte kalorier."
+            }
+          ]
+        },
+        "no": {
+          "update": {
+            "title": "Oppdatering tilgjengelig",
+            "body": "Oppdatering tilgjengelig"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Skann produkter med strekkoder og KI",
+              "body": "Skann strekkoder fra hele verden. Hvis et produkt fortsatt er ukjent, kan du ta et bilde; MGM AI søker først etter publisert produktinformasjon og viser kilden som ble brukt."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Ernæringsmålet ditt tilpasser seg deg",
+              "body": "Makromålene øker med ekstra forbrente kalorier, og kalorioversikten tilpasses målet om å gå opp, gå ned eller holde vekten."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Beregn aktiviteter mer nøyaktig",
+              "body": "For egnede aktiviteter kan du legge til opplysninger som distanse og tid for en mer nøyaktig beregning av forbrente kalorier."
+            }
+          ]
+        },
+        "fi": {
+          "update": {
+            "title": "Päivitys saatavilla",
+            "body": "Päivitys saatavilla"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Skannaa tuotteita viivakoodeilla ja tekoälyllä",
+              "body": "Skannaa viivakoodeja kaikkialta maailmasta. Jos tuotetta ei vieläkään tunnisteta, ota siitä kuva; MGM AI etsii ensin julkaistut tuotetiedot ja näyttää käytetyn lähteen."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Ravitsemustavoitteesi mukautuu sinuun",
+              "body": "Makrotavoitteet kasvavat lisäkulutuksen mukana, ja kaloriyhteenveto mukautuu painon nostamiseen, pudottamiseen tai ylläpitämiseen."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Arvioi aktiviteetit tarkemmin",
+              "body": "Sopivissa aktiviteeteissa voit lisätä valinnaisesti tietoja, kuten matkan ja ajan, jotta kulutetut kalorit voidaan arvioida tarkemmin."
+            }
+          ]
+        },
+        "cs": {
+          "update": {
+            "title": "Dostupná aktualizace",
+            "body": "Dostupná aktualizace"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Skenujte produkty pomocí čárových kódů a AI",
+              "body": "Skenujte čárové kódy z celého světa. Pokud produkt stále není rozpoznán, vyfoťte ho; MGM AI nejprve vyhledá zveřejněné informace o produktu a zobrazí použitý zdroj."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Váš výživový cíl se vám přizpůsobí",
+              "body": "Cíle makroživin rostou s dalšími spálenými kaloriemi a kalorický přehled se přizpůsobí cíli přibrat, zhubnout nebo si udržet hmotnost."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Odhadujte aktivity přesněji",
+              "body": "U vhodných aktivit můžete volitelně doplnit údaje, jako jsou vzdálenost a čas, pro přesnější odhad spálených kalorií."
+            }
+          ]
+        },
+        "ro": {
+          "update": {
+            "title": "Actualizare disponibilă",
+            "body": "Actualizare disponibilă"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Scanează produse cu coduri de bare și AI",
+              "body": "Scanează coduri de bare din întreaga lume. Dacă un produs rămâne necunoscut, fotografiază-l; MGM AI caută mai întâi informațiile publicate despre produs și afișează sursa utilizată."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Obiectivul tău nutrițional se adaptează la tine",
+              "body": "Obiectivele de macronutrienți cresc odată cu caloriile suplimentare arse, iar rezumatul caloric se adaptează obiectivului de a crește, a scădea sau a menține greutatea."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Estimează activitățile mai precis",
+              "body": "Pentru activitățile potrivite, adaugă opțional date precum distanța și timpul pentru o estimare mai precisă a caloriilor arse."
+            }
+          ]
+        },
+        "hu": {
+          "update": {
+            "title": "Frissítés érhető el",
+            "body": "Frissítés érhető el"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Termékek beolvasása vonalkóddal és MI-vel",
+              "body": "Olvass be vonalkódokat a világ minden tájáról. Ha egy termék továbbra is ismeretlen, készíts róla fényképet; az MGM AI először a közzétett termékinformációkat keresi meg, és megjeleníti a felhasznált forrást."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Táplálkozási célod hozzád igazodik",
+              "body": "A makrótápanyag-célok az extra elégetett kalóriákkal együtt nőnek, a kalóriaáttekintés pedig a súlygyarapítási, fogyási vagy súlytartási célodhoz igazodik."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Tevékenységek pontosabb becslése",
+              "body": "A megfelelő tevékenységeknél opcionálisan adj meg például távolságot és időt az elégetett kalóriák pontosabb becsléséhez."
+            }
+          ]
+        },
+        "el": {
+          "update": {
+            "title": "Διαθέσιμη ενημέρωση",
+            "body": "Διαθέσιμη ενημέρωση"
+          },
+          "highlights": [
+            {
+              "id": "global-product-scan-ai-source",
+              "title": "Σαρώστε προϊόντα με γραμμωτούς κώδικες και AI",
+              "body": "Σαρώστε γραμμωτούς κώδικες από όλο τον κόσμο. Αν ένα προϊόν παραμένει άγνωστο, τραβήξτε μια φωτογραφία· το MGM AI αναζητά πρώτα δημοσιευμένες πληροφορίες προϊόντος και εμφανίζει την πηγή που χρησιμοποιήθηκε."
+            },
+            {
+              "id": "adaptive-nutrition-goals",
+              "title": "Ο διατροφικός σας στόχος προσαρμόζεται σε εσάς",
+              "body": "Οι στόχοι μακροθρεπτικών αυξάνονται με τις επιπλέον θερμίδες που καίτε και η επισκόπηση θερμίδων προσαρμόζεται στον στόχο αύξησης, απώλειας ή διατήρησης βάρους."
+            },
+            {
+              "id": "precise-activity-details",
+              "title": "Υπολογίστε τις δραστηριότητες με μεγαλύτερη ακρίβεια",
+              "body": "Για τις κατάλληλες δραστηριότητες, προσθέστε προαιρετικά στοιχεία όπως απόσταση και χρόνο για ακριβέστερη εκτίμηση των θερμίδων που κάψατε."
+            }
+          ]
+        }
+      },
+      "availableAt": "2026-09-19T11:08:37.136Z",
+      "expiresAt": "2026-12-18T03:03:48-08:00"
     }
   ]
 }
