@@ -1446,6 +1446,1349 @@
       },
       "availableAt": "2026-09-19T11:08:37.136Z",
       "expiresAt": "2026-12-18T03:03:48-08:00"
+    },
+    {
+      "version": "1.0.27",
+      "build": "21",
+      "channel": "testflight",
+      "url": "https://testflight.apple.com/join/db4UByDC",
+      "locales": {
+        "en": {
+          "update": {
+            "title": "Update available",
+            "body": "Update available"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "More detail in Bodyweight",
+              "body": "Add body composition, measurements, photos and notes when you need them. Read a measurement report with MGM AI and check the values before logging."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Protect your Bodyweight photos",
+              "body": "Lock your private Bodyweight photos with Face ID, Touch ID or your passcode. New private photos are encrypted before cloud storage: even MGM cannot read those cloud copies. Photos you share are excluded."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Apple Health workouts in Nutrition",
+              "body": "See your workouts and calories burned, expand the available measurements and choose whether to count them toward your calorie goal."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 and time to try modules",
+              "body": "Activate a third module with MGM Plus 1. On Basic and Plus 1, your first module change after onboarding starts a one-hour trial window, followed by a seven-day lock."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "AI photo analysis in the background",
+              "body": "Once your photo request has been received, MGM AI keeps processing when you leave the app. With notifications enabled, you receive a message when the result is ready."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Switch between product variants",
+              "body": "Swipe through related flavours and sizes. Each choice shows its own photo, portion options and nutrition values."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "A message when you reach your step goal",
+              "body": "Receive a celebration when MGM detects that you have reached your step goal, including after a background update. Turn this notification on or off in MGM Settings."
+            }
+          ]
+        },
+        "zh": {
+          "update": {
+            "title": "有可用更新",
+            "body": "有可用更新"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "体重记录更详细",
+              "body": "按需添加身体成分、身体围度、照片和备注。用 MGM AI 读取测量报告，记录前先核对数值。"
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "保护体重模块中的照片",
+              "body": "使用 Face ID、Touch ID 或设备密码锁定体重模块中的私密照片。新的私密照片会在上传到云端前加密，即使 MGM 也无法读取这些云端副本。你分享的照片不在此保护范围内。"
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "在营养中查看 Apple 健康锻炼",
+              "body": "查看锻炼和消耗的卡路里，展开可用的测量数据，并选择是否将其计入卡路里目标。"
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 与模块试用时间",
+              "body": "使用 MGM Plus 1 可启用第三个模块。在 Basic 和 Plus 1 中，完成初始设置后首次更改模块，将开启一小时试用期，随后七天内无法更改。"
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "AI 照片分析可在后台继续",
+              "body": "收到照片请求后，即使你离开应用，MGM AI 也会继续处理。开启通知后，结果准备好时你会收到消息。"
+            },
+            {
+              "id": "food-product-variants",
+              "title": "切换产品规格与口味",
+              "body": "滑动浏览相关口味和规格。每个选项都显示自己的照片、份量选项和营养成分。"
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "达成步数目标时收到通知",
+              "body": "当 MGM 检测到你已达成步数目标时，你会收到祝贺通知，后台更新后也一样。你可以在 MGM 设置中开启或关闭此通知。"
+            }
+          ]
+        },
+        "hi": {
+          "update": {
+            "title": "अपडेट उपलब्ध है",
+            "body": "अपडेट उपलब्ध है"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "‘शरीर का वजन’ में अधिक जानकारी",
+              "body": "ज़रूरत के अनुसार शरीर की संरचना, माप, फ़ोटो और नोट जोड़ो। MGM AI से माप की रिपोर्ट पढ़वाओ और लॉग करने से पहले मान जाँचो।"
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "शरीर के वज़न मॉड्यूल में अपनी फ़ोटो सुरक्षित रखें",
+              "body": "शरीर के वज़न मॉड्यूल की निजी फ़ोटो को Face ID, Touch ID या अपने पासकोड से लॉक करें। नई निजी फ़ोटो क्लाउड में सहेजने से पहले एन्क्रिप्ट की जाती हैं: MGM भी उन क्लाउड कॉपी को नहीं पढ़ सकता। आपकी साझा की गई फ़ोटो इसमें शामिल नहीं हैं।"
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "पोषण में Apple Health के वर्कआउट",
+              "body": "अपने वर्कआउट और खर्च हुई कैलोरी देखो, उपलब्ध माप का विवरण खोलो और चुनो कि इन्हें कैलोरी लक्ष्य में गिना जाए या नहीं।"
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 और मॉड्यूल आज़माने का समय",
+              "body": "MGM Plus 1 से तीसरा मॉड्यूल चालू करो। Basic और Plus 1 में शुरुआती सेटअप के बाद पहली बार मॉड्यूल बदलने पर एक घंटे का परीक्षण समय शुरू होता है, फिर सात दिन तक बदलाव बंद रहते हैं।"
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "बैकग्राउंड में AI से फ़ोटो विश्लेषण",
+              "body": "तुम्हारी फ़ोटो का अनुरोध मिलने के बाद ऐप से बाहर जाने पर भी MGM AI काम जारी रखता है। नोटिफ़िकेशन चालू हों तो परिणाम तैयार होने पर संदेश मिलता है।"
+            },
+            {
+              "id": "food-product-variants",
+              "title": "उत्पाद के अलग विकल्प चुनो",
+              "body": "संबंधित स्वाद और आकार देखने के लिए स्वाइप करो। हर विकल्प की अपनी फ़ोटो, मात्रा के विकल्प और पोषण मान दिखते हैं।"
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "कदमों का लक्ष्य पूरा होने पर सूचना",
+              "body": "जब MGM को पता चले कि आपने कदमों का लक्ष्य पूरा कर लिया है, तो बधाई पाएँ—बैकग्राउंड अपडेट के बाद भी। MGM सेटिंग्स में इस सूचना को चालू या बंद करें।"
+            }
+          ]
+        },
+        "es": {
+          "update": {
+            "title": "Actualización disponible",
+            "body": "Actualización disponible"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Más detalles en Peso corporal",
+              "body": "Añade composición corporal, medidas, fotos y notas cuando las necesites. Lee un informe de medición con MGM AI y comprueba los valores antes de registrarlos."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Protege tus fotos en Peso corporal",
+              "body": "Bloquea tus fotos privadas de Peso corporal con Face ID, Touch ID o el código del dispositivo. Las nuevas fotos privadas se cifran antes de guardarse en la nube: ni siquiera MGM puede leer esas copias. Las fotos que compartes quedan excluidas."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Entrenamientos de Salud de Apple en Nutrición",
+              "body": "Consulta tus entrenamientos y las calorías quemadas, despliega las mediciones disponibles y elige si cuentan para tu objetivo calórico."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 y tiempo para probar módulos",
+              "body": "Activa un tercer módulo con MGM Plus 1. En Basic y Plus 1, tu primer cambio de módulos después de la configuración inicial abre un periodo de prueba de una hora, seguido de un bloqueo de siete días."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Análisis de fotos con IA en segundo plano",
+              "body": "Una vez recibida tu solicitud con foto, MGM AI sigue procesándola cuando sales de la app. Con las notificaciones activadas, recibes un aviso cuando el resultado está listo."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Cambia entre variantes de productos",
+              "body": "Desliza para ver sabores y tamaños relacionados. Cada opción muestra su propia foto, opciones de porción y valores nutricionales."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Un aviso al alcanzar tu objetivo de pasos",
+              "body": "Recibe una felicitación cuando MGM detecte que has alcanzado tu objetivo de pasos, incluso tras una actualización en segundo plano. Activa o desactiva este aviso en los ajustes de MGM."
+            }
+          ]
+        },
+        "ar": {
+          "update": {
+            "title": "يتوفر تحديث",
+            "body": "يتوفر تحديث"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "مزيد من التفاصيل في وزن الجسم",
+              "body": "أضف تركيب الجسم والقياسات والصور والملاحظات حسب حاجتك. استخدم MGM AI لقراءة تقرير قياس، ثم تحقّق من القيم قبل تسجيلها."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "احمِ صورك في وحدة وزن الجسم",
+              "body": "اقفل صورك الخاصة في وحدة وزن الجسم باستخدام Face ID أو Touch ID أو رمز الدخول. تُشفَّر الصور الخاصة الجديدة قبل تخزينها سحابيًا، فلا يستطيع حتى MGM قراءة هذه النسخ. الصور التي تشاركها مستثناة."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "تمارين Apple Health في التغذية",
+              "body": "اطّلع على تمارينك والسعرات المحروقة، وافتح القياسات المتاحة، واختر ما إذا كانت تُحتسب ضمن هدف السعرات لديك."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 ووقت لتجربة الوحدات",
+              "body": "فعّل وحدة ثالثة مع MGM Plus 1. في Basic وPlus 1، يبدأ أول تغيير للوحدات بعد الإعداد الأولي فترة تجربة لمدة ساعة، تليها فترة قفل لمدة سبعة أيام."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "تحليل الصور بالذكاء الاصطناعي في الخلفية",
+              "body": "بعد استلام طلب الصورة، يواصل MGM AI معالجته عند مغادرتك التطبيق. إذا كانت الإشعارات مفعّلة، ستتلقّى إشعارًا عندما تكون النتيجة جاهزة."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "التبديل بين أنواع المنتج",
+              "body": "مرّر بين النكهات والأحجام المرتبطة. يعرض كل خيار صورته وخيارات الحصص وقيمه الغذائية."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "إشعار عند بلوغ هدف خطواتك",
+              "body": "تلقَّ تهنئة عندما يرصد MGM بلوغك هدف خطواتك، حتى بعد تحديث في الخلفية. يمكنك تشغيل هذا الإشعار أو إيقافه من إعدادات MGM."
+            }
+          ]
+        },
+        "fr": {
+          "update": {
+            "title": "Mise à jour disponible",
+            "body": "Mise à jour disponible"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Plus de détails dans Poids corporel",
+              "body": "Ajoute la composition corporelle, les mensurations, des photos et des notes selon tes besoins. Fais lire un rapport de mesure par MGM AI et vérifie les valeurs avant de les enregistrer."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Protégez vos photos dans Poids corporel",
+              "body": "Verrouillez vos photos privées dans Poids corporel avec Face ID, Touch ID ou le code de votre appareil. Les nouvelles photos privées sont chiffrées avant leur stockage dans le cloud : même MGM ne peut pas lire ces copies. Les photos que vous partagez sont exclues."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Les entraînements Apple Santé dans Alimentation",
+              "body": "Consulte tes entraînements et les calories brûlées, développe les mesures disponibles et choisis s’ils comptent dans ton objectif calorique."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 et du temps pour essayer les modules",
+              "body": "Active un troisième module avec MGM Plus 1. Avec Basic et Plus 1, ton premier changement de modules après la configuration initiale ouvre une période d’essai d’une heure, suivie d’un verrouillage de sept jours."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Analyse photo par IA en arrière-plan",
+              "body": "Une fois ta demande avec photo reçue, MGM AI continue le traitement lorsque tu quittes l’app. Si les notifications sont activées, tu reçois un message quand le résultat est prêt."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Passe d’une variante de produit à l’autre",
+              "body": "Balaye pour parcourir les saveurs et formats associés. Chaque choix affiche sa propre photo, ses options de portions et ses valeurs nutritionnelles."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Un message lorsque votre objectif de pas est atteint",
+              "body": "Recevez des félicitations lorsque MGM détecte que vous avez atteint votre objectif de pas, même après une mise à jour en arrière-plan. Activez ou désactivez cette notification dans les réglages MGM."
+            }
+          ]
+        },
+        "bn": {
+          "update": {
+            "title": "আপডেট পাওয়া যাচ্ছে",
+            "body": "আপডেট পাওয়া যাচ্ছে"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "শরীরের ওজনে আরও বিস্তারিত তথ্য",
+              "body": "প্রয়োজনমতো শরীরের গঠন, মাপ, ছবি ও নোট যোগ করো। MGM AI দিয়ে পরিমাপের রিপোর্ট পড়াও এবং লগ করার আগে মানগুলো যাচাই করো।"
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "শরীরের ওজন মডিউলে আপনার ছবি সুরক্ষিত রাখুন",
+              "body": "Face ID, Touch ID বা পাসকোড দিয়ে শরীরের ওজন মডিউলের ব্যক্তিগত ছবি লক করুন। নতুন ব্যক্তিগত ছবি ক্লাউডে সংরক্ষণের আগেই এনক্রিপ্ট করা হয়: এমনকি MGM-ও সেই ক্লাউড কপি পড়তে পারে না। আপনার শেয়ার করা ছবি এর আওতায় পড়ে না।"
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "পুষ্টিতে Apple Health-এর ওয়ার্কআউট",
+              "body": "তোমার ওয়ার্কআউট ও পোড়ানো ক্যালোরি দেখো, উপলব্ধ পরিমাপের বিস্তারিত খোলো এবং সেগুলো ক্যালোরি লক্ষ্যে গণনা করা হবে কি না বেছে নাও।"
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 এবং মডিউল পরীক্ষার সময়",
+              "body": "MGM Plus 1 দিয়ে তৃতীয় মডিউল চালু করো। Basic ও Plus 1-এ প্রাথমিক সেটআপের পর প্রথম মডিউল পরিবর্তন করলে এক ঘণ্টার পরীক্ষার সময় শুরু হয়, তারপর সাত দিন পরিবর্তন বন্ধ থাকে।"
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "ব্যাকগ্রাউন্ডে AI দিয়ে ছবি বিশ্লেষণ",
+              "body": "তোমার ছবির অনুরোধ পাওয়ার পর অ্যাপ থেকে বেরোলেও MGM AI কাজ চালিয়ে যায়। নোটিফিকেশন চালু থাকলে ফলাফল তৈরি হলে বার্তা পাবে।"
+            },
+            {
+              "id": "food-product-variants",
+              "title": "পণ্যের ভিন্ন ধরন বেছে নাও",
+              "body": "সোয়াইপ করে একই পণ্যের সংশ্লিষ্ট স্বাদ ও আকার দেখো। প্রতিটি বিকল্পের নিজস্ব ছবি, পরিমাণের বিকল্প ও পুষ্টিমান দেখানো হয়।"
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "পদক্ষেপের লক্ষ্য পূরণ হলে বিজ্ঞপ্তি",
+              "body": "MGM আপনার পদক্ষেপের লক্ষ্য পূরণ হয়েছে বুঝতে পারলে অভিনন্দনের বিজ্ঞপ্তি পান, ব্যাকগ্রাউন্ডে আপডেটের পরেও। MGM সেটিংসে এই বিজ্ঞপ্তি চালু বা বন্ধ করতে পারেন।"
+            }
+          ]
+        },
+        "pt": {
+          "update": {
+            "title": "Atualização disponível",
+            "body": "Atualização disponível"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Mais detalhes em Peso corporal",
+              "body": "Adiciona composição corporal, medidas, fotografias e notas conforme precisares. Lê um relatório de medição com o MGM AI e verifica os valores antes de os registar."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Protege as tuas fotos em Peso corporal",
+              "body": "Bloqueia as tuas fotos privadas em Peso corporal com Face ID, Touch ID ou o código do dispositivo. As novas fotos privadas são encriptadas antes de serem guardadas na nuvem: nem o MGM consegue ler essas cópias. As fotos que partilhas ficam excluídas."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Treinos da Saúde da Apple em Nutrição",
+              "body": "Vê os teus treinos e as calorias queimadas, expande as medições disponíveis e escolhe se contam para o teu objetivo calórico."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 e tempo para experimentar módulos",
+              "body": "Ativa um terceiro módulo com o MGM Plus 1. No Basic e no Plus 1, a tua primeira alteração de módulos após a configuração inicial abre um período de teste de uma hora, seguido de um bloqueio de sete dias."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Análise de fotografias por IA em segundo plano",
+              "body": "Depois de o teu pedido com fotografia ser recebido, o MGM AI continua a processá-lo quando sais da app. Com as notificações ativas, recebes uma mensagem quando o resultado estiver pronto."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Alterna entre variantes de produtos",
+              "body": "Desliza para ver sabores e tamanhos relacionados. Cada opção mostra a sua fotografia, opções de porção e valores nutricionais."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Uma mensagem ao atingir o objetivo de passos",
+              "body": "Recebe uma mensagem de parabéns quando o MGM detetar que atingiste o teu objetivo de passos, mesmo após uma atualização em segundo plano. Ativa ou desativa esta notificação nas definições do MGM."
+            }
+          ]
+        },
+        "id": {
+          "update": {
+            "title": "Pembaruan tersedia",
+            "body": "Pembaruan tersedia"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Lebih banyak detail di Berat badan",
+              "body": "Tambahkan komposisi tubuh, ukuran, foto, dan catatan sesuai kebutuhan. Baca laporan pengukuran dengan MGM AI dan periksa nilainya sebelum mencatat."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Lindungi foto Anda di Berat Badan",
+              "body": "Kunci foto pribadi Anda di Berat Badan dengan Face ID, Touch ID, atau kode sandi perangkat. Foto pribadi baru dienkripsi sebelum disimpan di cloud: bahkan MGM tidak dapat membaca salinan cloud tersebut. Foto yang Anda bagikan tidak termasuk."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Latihan Apple Health di Nutrisi",
+              "body": "Lihat latihan dan kalori yang terbakar, buka rincian pengukuran yang tersedia, dan pilih apakah akan dihitung dalam target kalorimu."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 dan waktu untuk mencoba modul",
+              "body": "Aktifkan modul ketiga dengan MGM Plus 1. Pada Basic dan Plus 1, perubahan modul pertamamu setelah pengaturan awal memulai masa coba satu jam, lalu perubahan dikunci selama tujuh hari."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Analisis foto AI di latar belakang",
+              "body": "Setelah permintaan fotomu diterima, MGM AI tetap memproses saat kamu keluar dari aplikasi. Jika notifikasi aktif, kamu mendapat pesan saat hasilnya siap."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Beralih antarvarian produk",
+              "body": "Geser untuk melihat rasa dan ukuran yang terkait. Setiap pilihan menampilkan foto, opsi porsi, dan nilai gizinya sendiri."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Notifikasi saat target langkah tercapai",
+              "body": "Dapatkan ucapan selamat saat MGM mendeteksi bahwa target langkah Anda tercapai, termasuk setelah pembaruan di latar belakang. Aktifkan atau nonaktifkan notifikasi ini di Pengaturan MGM."
+            }
+          ]
+        },
+        "ur": {
+          "update": {
+            "title": "اپ ڈیٹ دستیاب ہے",
+            "body": "اپ ڈیٹ دستیاب ہے"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "جسمانی وزن میں مزید تفصیل",
+              "body": "ضرورت کے مطابق جسم کی ساخت، پیمائشیں، تصاویر اور نوٹس شامل کرو۔ MGM AI سے پیمائش کی رپورٹ پڑھواؤ اور لاگ کرنے سے پہلے قدروں کی جانچ کرو۔"
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "جسمانی وزن میں اپنی تصاویر محفوظ بنائیں",
+              "body": "جسمانی وزن کی نجی تصاویر کو Face ID، Touch ID یا اپنے پاس کوڈ سے لاک کریں۔ نئی نجی تصاویر کلاؤڈ میں محفوظ ہونے سے پہلے انکرپٹ ہوتی ہیں: MGM بھی ان کلاؤڈ کاپیوں کو نہیں پڑھ سکتا۔ آپ کی شیئر کردہ تصاویر اس میں شامل نہیں ہیں۔"
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "غذائیت میں Apple Health کے ورزش ریکارڈ",
+              "body": "اپنی ورزشیں اور خرچ ہونے والی کیلوریز دیکھو، دستیاب پیمائشوں کی تفصیل کھولو اور منتخب کرو کہ انہیں کیلوری کے ہدف میں شمار کرنا ہے یا نہیں۔"
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 اور ماڈیول آزمانے کا وقت",
+              "body": "MGM Plus 1 کے ساتھ تیسرا ماڈیول فعال کرو۔ Basic اور Plus 1 میں ابتدائی سیٹ اپ کے بعد پہلی بار ماڈیول بدلنے پر ایک گھنٹے کی آزمائشی مدت شروع ہوتی ہے، پھر سات دن تک تبدیلیاں لاک رہتی ہیں۔"
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "پس منظر میں AI سے تصویر کا تجزیہ",
+              "body": "تصویر کی درخواست موصول ہونے کے بعد ایپ سے باہر جانے پر بھی MGM AI کام جاری رکھتا ہے۔ نوٹیفکیشن فعال ہوں تو نتیجہ تیار ہونے پر پیغام ملتا ہے۔"
+            },
+            {
+              "id": "food-product-variants",
+              "title": "مصنوعات کی مختلف اقسام منتخب کرو",
+              "body": "متعلقہ ذائقے اور سائز دیکھنے کے لیے سوائپ کرو۔ ہر انتخاب کی اپنی تصویر، مقدار کے اختیارات اور غذائی قدریں دکھائی جاتی ہیں۔"
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "قدموں کا ہدف پورا ہونے پر اطلاع",
+              "body": "جب MGM کو معلوم ہو کہ آپ نے قدموں کا ہدف حاصل کر لیا ہے تو مبارک باد کی اطلاع پائیں، بیک گراؤنڈ اپ ڈیٹ کے بعد بھی۔ MGM کی ترتیبات میں یہ اطلاع آن یا آف کریں۔"
+            }
+          ]
+        },
+        "ru": {
+          "update": {
+            "title": "Доступно обновление",
+            "body": "Доступно обновление"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Больше деталей в модуле «Вес тела»",
+              "body": "Добавляй состав тела, замеры, фотографии и заметки по необходимости. Прочитай отчёт об измерениях с помощью MGM AI и проверь значения перед записью."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Защитите фотографии в модуле «Вес тела»",
+              "body": "Заблокируйте личные фотографии в модуле «Вес тела» с помощью Face ID, Touch ID или код-пароля устройства. Новые личные фотографии шифруются до сохранения в облаке: даже MGM не может прочитать эти копии. Это не относится к фотографиям, которыми вы делитесь."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Тренировки из Apple Здоровье в модуле «Питание»",
+              "body": "Смотри свои тренировки и сожжённые калории, раскрывай доступные измерения и выбирай, учитывать ли их в твоей цели по калориям."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 и время попробовать модули",
+              "body": "Активируй третий модуль с MGM Plus 1. В Basic и Plus 1 первая смена модулей после первоначальной настройки открывает час для пробного использования, после которого изменения блокируются на семь дней."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Анализ фотографий с ИИ в фоне",
+              "body": "Когда запрос с твоей фотографией получен, MGM AI продолжает обработку, даже если ты выходишь из приложения. При включённых уведомлениях ты получишь сообщение, когда результат будет готов."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Переключайся между вариантами продукта",
+              "body": "Смахивай, чтобы посмотреть связанные вкусы и размеры. У каждого варианта — своя фотография, варианты порций и пищевая ценность."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Уведомление о достижении цели по шагам",
+              "body": "Получите поздравление, когда MGM обнаружит, что вы достигли цели по шагам, в том числе после фонового обновления. Уведомление можно включить или выключить в настройках MGM."
+            }
+          ]
+        },
+        "de": {
+          "update": {
+            "title": "Update verfügbar",
+            "body": "Update verfügbar"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Mehr Details beim Körpergewicht",
+              "body": "Ergänze nach Bedarf Körperzusammensetzung, Körpermaße, Fotos und Notizen. Lass MGM AI einen Messbericht auslesen und prüfe die Werte vor dem Eintragen."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Schütze deine Fotos im Gewichtsmodul",
+              "body": "Sperre deine privaten Fotos im Gewichtsmodul mit Face ID, Touch ID oder deinem Gerätecode. Neue private Fotos werden vor der Cloud-Speicherung verschlüsselt: Auch MGM kann diese Cloud-Kopien nicht lesen. Geteilte Fotos sind davon ausgenommen."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Apple-Health-Trainings in Ernährung",
+              "body": "Sieh deine Trainings und verbrannten Kalorien, klappe verfügbare Messdaten auf und wähle, ob sie zu deinem Kalorienziel zählen."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 und Zeit zum Ausprobieren",
+              "body": "Aktiviere mit MGM Plus 1 ein drittes Modul. Bei Basic und Plus 1 startet deine erste Moduländerung nach der Einrichtung ein einstündiges Zeitfenster zum Ausprobieren. Danach sind Änderungen sieben Tage lang gesperrt."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "KI-Fotoanalyse im Hintergrund",
+              "body": "Sobald dein Fotoauftrag eingegangen ist, arbeitet MGM AI weiter, wenn du die App verlässt. Bei aktivierten Mitteilungen erhältst du eine Nachricht, sobald das Ergebnis bereit ist."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Zwischen Produktvarianten wechseln",
+              "body": "Wische durch zugehörige Geschmacksrichtungen und Größen. Jede Variante zeigt ihr eigenes Foto, ihre Portionsoptionen und Nährwerte."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Eine Nachricht zum erreichten Schrittziel",
+              "body": "Erhalte einen Glückwunsch, wenn MGM erkennt, dass du dein Schrittziel erreicht hast – auch nach einer Aktualisierung im Hintergrund. Du kannst diese Mitteilung in den MGM-Einstellungen ein- oder ausschalten."
+            }
+          ]
+        },
+        "ja": {
+          "update": {
+            "title": "アップデートがあります",
+            "body": "アップデートがあります"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "体重に詳しい情報を追加",
+              "body": "必要に応じて、体組成、身体のサイズ、写真、メモを追加できます。MGM AIで測定レポートを読み取り、記録する前に数値を確認しましょう。"
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "体重モジュールの写真を保護",
+              "body": "体重モジュールの非公開写真をFace ID、Touch ID、またはパスコードでロックできます。新しい非公開写真はクラウド保存前に暗号化され、MGMでもそのクラウド上のコピーを読み取れません。共有した写真は対象外です。"
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "栄養管理でAppleヘルスケアのワークアウトを確認",
+              "body": "ワークアウトと消費カロリーを確認し、取得できた測定データを展開して、カロリー目標に含めるか選べます。"
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1とモジュールを試す時間",
+              "body": "MGM Plus 1で3つ目のモジュールを有効にできます。BasicとPlus 1では、初期設定後に初めてモジュールを変更すると1時間の試用期間が始まり、その後7日間は変更がロックされます。"
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "AIによる写真分析をバックグラウンドで",
+              "body": "写真のリクエストが受信されると、アプリを離れてもMGM AIは処理を続けます。通知を有効にしている場合、結果が準備できたらお知らせします。"
+            },
+            {
+              "id": "food-product-variants",
+              "title": "商品のバリエーションを切り替え",
+              "body": "スワイプして関連する味やサイズを確認できます。それぞれの写真、分量の選択肢、栄養成分が表示されます。"
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "歩数目標の達成をお知らせ",
+              "body": "MGMが歩数目標の達成を検出すると、お祝いの通知が届きます。バックグラウンド更新後も対象です。MGM設定で通知のオン・オフを切り替えられます。"
+            }
+          ]
+        },
+        "vi": {
+          "update": {
+            "title": "Có bản cập nhật",
+            "body": "Có bản cập nhật"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Thêm chi tiết trong Cân nặng",
+              "body": "Thêm thành phần cơ thể, số đo, ảnh và ghi chú khi cần. Đọc báo cáo đo lường bằng MGM AI và kiểm tra các giá trị trước khi ghi lại."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Bảo vệ ảnh trong mô-đun Cân nặng",
+              "body": "Khóa ảnh riêng tư trong mô-đun Cân nặng bằng Face ID, Touch ID hoặc mật mã thiết bị. Ảnh riêng tư mới được mã hóa trước khi lưu lên đám mây: ngay cả MGM cũng không thể đọc các bản sao đó. Ảnh bạn chia sẻ không thuộc phạm vi bảo vệ này."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Bài tập Apple Sức khỏe trong Dinh dưỡng",
+              "body": "Xem bài tập và lượng calo đã đốt, mở rộng số liệu đo có sẵn và chọn có tính chúng vào mục tiêu calo hay không."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 và thời gian thử mô-đun",
+              "body": "Kích hoạt mô-đun thứ ba với MGM Plus 1. Trên Basic và Plus 1, lần đổi mô-đun đầu tiên sau thiết lập ban đầu mở thời gian thử một giờ, sau đó các thay đổi bị khóa trong bảy ngày."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Phân tích ảnh bằng AI trong nền",
+              "body": "Sau khi yêu cầu ảnh được nhận, MGM AI tiếp tục xử lý khi bạn rời ứng dụng. Nếu bật thông báo, bạn sẽ nhận tin khi kết quả sẵn sàng."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Chuyển giữa các biến thể sản phẩm",
+              "body": "Vuốt qua các hương vị và kích cỡ liên quan. Mỗi lựa chọn hiển thị ảnh, tùy chọn khẩu phần và giá trị dinh dưỡng riêng."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Thông báo khi đạt mục tiêu số bước",
+              "body": "Nhận lời chúc mừng khi MGM phát hiện bạn đã đạt mục tiêu số bước, kể cả sau khi cập nhật trong nền. Bật hoặc tắt thông báo này trong Cài đặt MGM."
+            }
+          ]
+        },
+        "mr": {
+          "update": {
+            "title": "अपडेट उपलब्ध आहे",
+            "body": "अपडेट उपलब्ध आहे"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "वजन मॉड्यूलमध्ये अधिक तपशील",
+              "body": "गरजेनुसार शरीराची रचना, शरीराची मापे, फोटो आणि नोंदी जोडा. MGM AI कडून मोजणीचा अहवाल वाचून घ्या आणि लॉग करण्यापूर्वी मूल्ये तपासा."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "शरीराच्या वजनाच्या मॉड्यूलमधील फोटो सुरक्षित ठेवा",
+              "body": "शरीराच्या वजनाच्या मॉड्यूलमधील खाजगी फोटो Face ID, Touch ID किंवा तुमच्या पासकोडने लॉक करा. नवीन खाजगी फोटो क्लाउडमध्ये साठवण्यापूर्वी एन्क्रिप्ट केले जातात: MGM सुद्धा त्या क्लाउड प्रती वाचू शकत नाही. तुम्ही शेअर केलेले फोटो यात समाविष्ट नाहीत."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "पोषणमध्ये Apple Health चे व्यायाम",
+              "body": "तुमचे व्यायाम आणि खर्च झालेल्या कॅलरी पाहा, उपलब्ध मोजणीचे तपशील उघडा आणि ते कॅलरीच्या उद्दिष्टात धरायचे का ते निवडा."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 आणि मॉड्यूल वापरून पाहण्याची वेळ",
+              "body": "MGM Plus 1 सह तिसरे मॉड्यूल सुरू करा. Basic आणि Plus 1 मध्ये सुरुवातीच्या सेटअपनंतर पहिल्यांदा मॉड्यूल बदलल्यावर एक तास वापरून पाहण्याची संधी मिळते. त्यानंतर सात दिवस बदल करता येत नाहीत."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "पार्श्वभूमीत AI द्वारे फोटो विश्लेषण",
+              "body": "तुमच्या फोटोची विनंती मिळाल्यावर तुम्ही ॲपमधून बाहेर गेलात तरी MGM AI प्रक्रिया सुरू ठेवते. सूचना सुरू असल्यास निकाल तयार झाल्यावर संदेश मिळतो."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "उत्पादनाच्या प्रकारांमध्ये बदला",
+              "body": "संबंधित चवी आणि आकार पाहण्यासाठी स्वाइप करा. प्रत्येक पर्यायाचा स्वतःचा फोटो, प्रमाणाचे पर्याय आणि पोषणमूल्ये दिसतात."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "पावलांचे ध्येय पूर्ण झाल्यावर सूचना",
+              "body": "तुम्ही पावलांचे ध्येय पूर्ण केल्याचे MGM ला आढळल्यावर अभिनंदनाची सूचना मिळवा, पार्श्वभूमीतील अपडेटनंतरही. MGM सेटिंग्जमध्ये ही सूचना सुरू किंवा बंद करा."
+            }
+          ]
+        },
+        "te": {
+          "update": {
+            "title": "అప్‌డేట్ అందుబాటులో ఉంది",
+            "body": "అప్‌డేట్ అందుబాటులో ఉంది"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "శరీర బరువులో మరిన్ని వివరాలు",
+              "body": "అవసరమైనప్పుడు శరీర కూర్పు, కొలతలు, ఫోటోలు, గమనికలు జోడించు. MGM AIతో కొలతల నివేదికను చదివించి, లాగ్ చేసే ముందు విలువలను తనిఖీ చేయి."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "శరీర బరువు మాడ్యూల్‌లో మీ ఫోటోలను రక్షించుకోండి",
+              "body": "శరీర బరువు మాడ్యూల్‌లోని వ్యక్తిగత ఫోటోలను Face ID, Touch ID లేదా మీ పాస్‌కోడ్‌తో లాక్ చేయండి. కొత్త వ్యక్తిగత ఫోటోలను క్లౌడ్‌లో నిల్వ చేయడానికి ముందే ఎన్‌క్రిప్ట్ చేస్తాం: MGM కూడా ఆ క్లౌడ్ కాపీలను చదవలేదు. మీరు షేర్ చేసే ఫోటోలకు ఇది వర్తించదు."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "పోషకాహారంలో Apple Health వర్కౌట్‌లు",
+              "body": "నీ వర్కౌట్‌లు, ఖర్చయిన కేలరీలు చూడు, అందుబాటులో ఉన్న కొలతల వివరాలు తెరువు, వాటిని నీ కేలరీల లక్ష్యంలో లెక్కించాలా వద్దా ఎంచుకో."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1, మాడ్యూల్‌లను ప్రయత్నించే సమయం",
+              "body": "MGM Plus 1తో మూడో మాడ్యూల్‌ను ప్రారంభించు. Basic, Plus 1లో ప్రారంభ సెటప్ తర్వాత మొదటిసారి మాడ్యూల్‌లను మార్చినప్పుడు ఒక గంట ప్రయత్నించే సమయం మొదలవుతుంది. ఆ తర్వాత ఏడు రోజుల పాటు మార్పులు లాక్ అవుతాయి."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "బ్యాక్‌గ్రౌండ్‌లో AI ఫోటో విశ్లేషణ",
+              "body": "నీ ఫోటో అభ్యర్థన అందుకున్న తర్వాత యాప్ నుంచి బయటకు వెళ్లినా MGM AI పని కొనసాగిస్తుంది. నోటిఫికేషన్‌లు ఆన్‌లో ఉంటే ఫలితం సిద్ధమైనప్పుడు సందేశం వస్తుంది."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "ఉత్పత్తి రకాల మధ్య మార్పు",
+              "body": "సంబంధిత రుచులు, పరిమాణాలు చూడటానికి స్వైప్ చేయి. ప్రతి ఎంపికకు దాని స్వంత ఫోటో, వడ్డింపు పరిమాణాల ఎంపికలు, పోషక విలువలు కనిపిస్తాయి."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "అడుగుల లక్ష్యాన్ని చేరుకున్నప్పుడు నోటిఫికేషన్",
+              "body": "మీరు అడుగుల లక్ష్యాన్ని చేరుకున్నట్లు MGM గుర్తించినప్పుడు అభినందన సందేశం అందుకోండి, బ్యాక్‌గ్రౌండ్ అప్‌డేట్ తర్వాత కూడా. MGM సెట్టింగ్‌లలో ఈ నోటిఫికేషన్‌ను ఆన్ లేదా ఆఫ్ చేయండి."
+            }
+          ]
+        },
+        "sw": {
+          "update": {
+            "title": "Sasisho linapatikana",
+            "body": "Sasisho linapatikana"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Maelezo zaidi katika Uzito wa mwili",
+              "body": "Ongeza muundo wa mwili, vipimo, picha na maelezo inapohitajika. Soma ripoti ya vipimo kwa MGM AI na uhakiki thamani kabla ya kuzirekodi."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Linda picha zako katika Uzito wa Mwili",
+              "body": "Funga picha zako za faragha katika Uzito wa Mwili kwa Face ID, Touch ID au nambari ya siri ya kifaa. Picha mpya za faragha husimbwa kabla ya kuhifadhiwa kwenye wingu: hata MGM haiwezi kusoma nakala hizo. Picha unazoshiriki hazijumuishwi."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Mazoezi ya Apple Health katika Lishe",
+              "body": "Ona mazoezi yako na kalori zilizochomwa, fungua vipimo vinavyopatikana na uchague kama vitahesabiwa kwenye lengo lako la kalori."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 na muda wa kujaribu moduli",
+              "body": "Washa moduli ya tatu kwa MGM Plus 1. Kwa Basic na Plus 1, mabadiliko yako ya kwanza ya moduli baada ya usanidi wa mwanzo huanzisha muda wa kujaribu wa saa moja, kisha mabadiliko hufungwa kwa siku saba."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Uchanganuzi wa picha kwa AI chinichini",
+              "body": "Ombi lako la picha likishapokelewa, MGM AI inaendelea kulichakata unapotoka kwenye programu. Arifa zikiwa zimewashwa, utapata ujumbe matokeo yakiwa tayari."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Badilisha kati ya aina za bidhaa",
+              "body": "Telezesha kuona ladha na ukubwa unaohusiana. Kila chaguo linaonyesha picha yake, chaguo za kiasi na thamani za lishe."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Arifa unapofikia lengo lako la hatua",
+              "body": "Pokea pongezi MGM inapogundua kuwa umefikia lengo lako la hatua, hata baada ya sasisho la chinichini. Washa au zima arifa hii katika Mipangilio ya MGM."
+            }
+          ]
+        },
+        "ha": {
+          "update": {
+            "title": "Akwai sabuntawa",
+            "body": "Akwai sabuntawa"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Ƙarin bayanai a Nauyin jiki",
+              "body": "Ƙara bayanan tsarin jiki, ma’aunai, hotuna da rubutu idan kana buƙata. Bari MGM AI ya karanta rahoton awo, sannan ka duba ƙimomin kafin ka rubuta su."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Kare hotunanka a Sashen Nauyin Jiki",
+              "body": "Kulle hotunanka na sirri a Sashen Nauyin Jiki da Face ID, Touch ID ko lambar buɗe na’urarka. Ana ɓoye sabbin hotunan sirri ta hanyar encryption kafin adana su a girgije: ko MGM ba zai iya karanta waɗannan kwafin ba. Wannan bai shafi hotunan da ka raba ba."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Atisayen Apple Health a Abinci",
+              "body": "Duba atisayenka da kalorin da aka ƙona, buɗe ma’aunan da ake da su, sannan ka zaɓi ko za a haɗa su cikin burin kalorinka."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 da lokacin gwada sassa",
+              "body": "Kunna sashe na uku da MGM Plus 1. A Basic da Plus 1, canjin sassa na farko bayan saitin farko yana fara lokacin gwaji na awa ɗaya, sannan a kulle canje-canje na kwana bakwai."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Binciken hotuna da AI a bango",
+              "body": "Da zarar an karɓi buƙatarka ta hoto, MGM AI yana ci gaba da aiki idan ka fita daga manhajar. Idan an kunna sanarwa, za ka sami saƙo idan sakamakon ya shirya."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Sauya tsakanin nau’o’in samfur",
+              "body": "Ja don duba ɗanɗano da girman da ke da alaƙa. Kowane zaɓi yana nuna hotonsa, zaɓuɓɓukan kaso da ƙimomin sinadaran abinci."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Sanarwa idan ka cim ma burin matakanka",
+              "body": "Ka sami saƙon taya murna idan MGM ya gano ka cim ma burin matakanka, har bayan sabuntawa a bayan fage. Za ka iya kunna ko kashe sanarwar a Saitunan MGM."
+            }
+          ]
+        },
+        "nl": {
+          "update": {
+            "title": "Update beschikbaar",
+            "body": "Update beschikbaar"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Meer detail bij Lichaamsgewicht",
+              "body": "Voeg naar wens lichaamssamenstelling, lichaamsmaten, foto's en notities toe. Lees een meetrapport uit met MGM AI en controleer de waarden vóór het loggen."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Bescherm je foto’s in Lichaamsgewicht",
+              "body": "Vergrendel je privéfoto’s in Lichaamsgewicht met Face ID, Touch ID of je toegangscode. Nieuwe privéfoto’s worden vóór cloudopslag versleuteld: ook MGM kan die cloudkopieën niet lezen. Foto’s die je deelt, vallen hierbuiten."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Apple Gezondheid-workouts in Voeding",
+              "body": "Bekijk je workouts en verbrande calorieën, klap beschikbare meetgegevens open en kies of ze meetellen voor je caloriedoel."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 en tijd om modules te proberen",
+              "body": "Activeer een derde module met MGM Plus 1. Bij Basic en Plus 1 start je eerste modulewijziging na de onboarding een uur om te proberen, gevolgd door zeven dagen vergrendeling."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "AI-fotoanalyse op de achtergrond",
+              "body": "Zodra je foto-opdracht is ontvangen, werkt MGM AI door als je de app verlaat. Met meldingen aan krijg je bericht wanneer het resultaat klaarstaat."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Wissel tussen productvarianten",
+              "body": "Veeg door bijbehorende smaken en formaten. Iedere keuze toont de eigen foto, porties en voedingswaarden."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Een melding bij je stappendoel",
+              "body": "Krijg een felicitatie wanneer MGM ziet dat je je stappendoel hebt behaald, ook na een update op de achtergrond. Je zet deze melding aan of uit in MGM-instellingen."
+            }
+          ]
+        },
+        "it": {
+          "update": {
+            "title": "Aggiornamento disponibile",
+            "body": "Aggiornamento disponibile"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Più dettagli in Peso corporeo",
+              "body": "Aggiungi composizione corporea, misure, foto e note quando ti servono. Fai leggere un rapporto di misurazione a MGM AI e controlla i valori prima di registrarli."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Proteggi le tue foto in Peso corporeo",
+              "body": "Blocca le foto private in Peso corporeo con Face ID, Touch ID o il codice del dispositivo. Le nuove foto private vengono crittografate prima del salvataggio nel cloud: nemmeno MGM può leggere quelle copie. Le foto che condividi sono escluse."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Gli allenamenti di Salute di Apple in Alimentazione",
+              "body": "Visualizza allenamenti e calorie bruciate, espandi le misurazioni disponibili e scegli se contarli nel tuo obiettivo calorico."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 e tempo per provare i moduli",
+              "body": "Attiva un terzo modulo con MGM Plus 1. Con Basic e Plus 1, la prima modifica ai moduli dopo la configurazione iniziale avvia un periodo di prova di un’ora, seguito da un blocco di sette giorni."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Analisi foto con AI in background",
+              "body": "Una volta ricevuta la richiesta con la foto, MGM AI continua a elaborarla quando esci dall’app. Con le notifiche attive, ricevi un messaggio quando il risultato è pronto."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Passa tra le varianti del prodotto",
+              "body": "Scorri tra gusti e formati correlati. Ogni scelta mostra la propria foto, le opzioni di porzione e i valori nutrizionali."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Un messaggio quando raggiungi l’obiettivo di passi",
+              "body": "Ricevi un messaggio di congratulazioni quando MGM rileva che hai raggiunto l’obiettivo di passi, anche dopo un aggiornamento in background. Attiva o disattiva questa notifica nelle impostazioni MGM."
+            }
+          ]
+        },
+        "pl": {
+          "update": {
+            "title": "Dostępna aktualizacja",
+            "body": "Dostępna aktualizacja"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Więcej szczegółów w Masie ciała",
+              "body": "Dodaj skład ciała, obwody, zdjęcia i notatki według potrzeb. Odczytaj raport pomiarowy za pomocą MGM AI i sprawdź wartości przed zapisaniem."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Chroń swoje zdjęcia w module Masa ciała",
+              "body": "Zablokuj prywatne zdjęcia w module Masa ciała za pomocą Face ID, Touch ID lub kodu urządzenia. Nowe prywatne zdjęcia są szyfrowane przed zapisaniem w chmurze: nawet MGM nie może odczytać tych kopii. Nie dotyczy to udostępnianych zdjęć."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Treningi z Apple Zdrowie w Odżywianiu",
+              "body": "Zobacz treningi i spalone kalorie, rozwiń dostępne pomiary i wybierz, czy mają być uwzględniane w Twoim celu kalorycznym."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 i czas na wypróbowanie modułów",
+              "body": "Aktywuj trzeci moduł z MGM Plus 1. W Basic i Plus 1 pierwsza zmiana modułów po konfiguracji początkowej rozpoczyna godzinne okno próbne, po którym następuje siedmiodniowa blokada zmian."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Analiza zdjęć przez AI w tle",
+              "body": "Po otrzymaniu zgłoszenia ze zdjęciem MGM AI kontynuuje przetwarzanie, gdy opuścisz aplikację. Przy włączonych powiadomieniach otrzymasz wiadomość, gdy wynik będzie gotowy."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Przełączaj się między wariantami produktu",
+              "body": "Przesuwaj, aby przeglądać powiązane smaki i rozmiary. Każdy wariant pokazuje własne zdjęcie, opcje porcji i wartości odżywcze."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Powiadomienie o osiągnięciu celu kroków",
+              "body": "Otrzymaj gratulacje, gdy MGM wykryje osiągnięcie celu kroków, również po aktualizacji w tle. To powiadomienie możesz włączyć lub wyłączyć w ustawieniach MGM."
+            }
+          ]
+        },
+        "tr": {
+          "update": {
+            "title": "Güncelleme mevcut",
+            "body": "Güncelleme mevcut"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Vücut ağırlığında daha fazla ayrıntı",
+              "body": "İhtiyaç duyduğunda vücut kompozisyonu, ölçüler, fotoğraflar ve notlar ekle. Bir ölçüm raporunu MGM AI ile okut ve kaydetmeden önce değerleri kontrol et."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Vücut Ağırlığı’ndaki fotoğraflarını koru",
+              "body": "Vücut Ağırlığı’ndaki özel fotoğraflarını Face ID, Touch ID veya cihaz parolanla kilitle. Yeni özel fotoğraflar buluta kaydedilmeden önce şifrelenir: MGM bile bu bulut kopyalarını okuyamaz. Paylaştığın fotoğraflar buna dahil değildir."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Apple Sağlık antrenmanları Beslenmede",
+              "body": "Antrenmanlarını ve yakılan kalorileri gör, mevcut ölçümleri genişlet ve kalori hedefine dahil edilip edilmeyeceklerini seç."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 ve modülleri deneme süresi",
+              "body": "MGM Plus 1 ile üçüncü bir modülü etkinleştir. Basic ve Plus 1’de ilk kurulumdan sonraki ilk modül değişikliğin bir saatlik deneme süresi başlatır; ardından değişiklikler yedi gün boyunca kilitlenir."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Arka planda AI fotoğraf analizi",
+              "body": "Fotoğraf isteğin alındıktan sonra uygulamadan ayrılsan da MGM AI işlemeye devam eder. Bildirimler açıksa sonuç hazır olduğunda mesaj alırsın."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Ürün çeşitleri arasında geçiş yap",
+              "body": "İlgili tat ve boyutları kaydırarak incele. Her seçenek kendi fotoğrafını, porsiyon seçeneklerini ve besin değerlerini gösterir."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Adım hedefine ulaştığında bildirim al",
+              "body": "MGM, adım hedefine ulaştığını algıladığında, arka plan güncellemesinden sonra da bir tebrik bildirimi al. Bu bildirimi MGM Ayarları’ndan açıp kapatabilirsin."
+            }
+          ]
+        },
+        "uk": {
+          "update": {
+            "title": "Доступне оновлення",
+            "body": "Доступне оновлення"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Більше деталей у модулі «Вага тіла»",
+              "body": "Додавай склад тіла, заміри, фотографії та нотатки за потреби. Прочитай звіт вимірювань за допомогою MGM AI та перевір значення перед записом."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Захистіть свої фото в модулі «Вага тіла»",
+              "body": "Заблокуйте приватні фото в модулі «Вага тіла» за допомогою Face ID, Touch ID або коду допуску пристрою. Нові приватні фото шифруються перед збереженням у хмарі: навіть MGM не може прочитати ці копії. Це не стосується фото, якими ви ділитеся."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Тренування з Apple Здоров’я в модулі «Харчування»",
+              "body": "Переглядай тренування та спалені калорії, розгортай доступні вимірювання й обирай, чи враховувати їх у твоїй цілі калорій."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 і час спробувати модулі",
+              "body": "Активуй третій модуль із MGM Plus 1. У Basic і Plus 1 перша зміна модулів після початкового налаштування відкриває годину для пробного використання, після якої зміни блокуються на сім днів."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Аналіз фотографій з ШІ у фоні",
+              "body": "Коли запит із твоєю фотографією отримано, MGM AI продовжує обробку, навіть якщо ти виходиш із застосунку. Якщо сповіщення ввімкнені, ти отримаєш повідомлення, коли результат буде готовий."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Перемикайся між варіантами продукту",
+              "body": "Гортай пов’язані смаки та розміри. Кожен варіант показує власну фотографію, варіанти порцій і харчову цінність."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Сповіщення про досягнення цілі кроків",
+              "body": "Отримайте привітання, коли MGM виявить, що ви досягли цілі кроків, зокрема після фонового оновлення. Це сповіщення можна ввімкнути або вимкнути в налаштуваннях MGM."
+            }
+          ]
+        },
+        "sv": {
+          "update": {
+            "title": "Uppdatering tillgänglig",
+            "body": "Uppdatering tillgänglig"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Fler detaljer i Kroppsvikt",
+              "body": "Lägg till kroppssammansättning, mått, bilder och anteckningar vid behov. Låt MGM AI läsa en mätrapport och kontrollera värdena innan du loggar dem."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Skydda dina bilder i Kroppsvikt",
+              "body": "Lås dina privata bilder i Kroppsvikt med Face ID, Touch ID eller enhetens lösenkod. Nya privata bilder krypteras innan de sparas i molnet: inte ens MGM kan läsa dessa kopior. Bilder du delar omfattas inte."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Apple Hälsa-träningar i Kost",
+              "body": "Se dina träningspass och förbrända kalorier, öppna tillgängliga mätningar och välj om de ska räknas med i ditt kalorimål."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 och tid att prova moduler",
+              "body": "Aktivera en tredje modul med MGM Plus 1. På Basic och Plus 1 startar din första moduländring efter den inledande konfigurationen en provperiod på en timme, följt av en låsning på sju dagar."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "AI-bildanalys i bakgrunden",
+              "body": "När din bildförfrågan har tagits emot fortsätter MGM AI bearbetningen när du lämnar appen. Med notiser aktiverade får du ett meddelande när resultatet är klart."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Växla mellan produktvarianter",
+              "body": "Svep genom tillhörande smaker och storlekar. Varje val visar sin egen bild, portionsalternativ och näringsvärden."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Ett meddelande när du når ditt stegmål",
+              "body": "Få en gratulation när MGM upptäcker att du har nått ditt stegmål, även efter en uppdatering i bakgrunden. Slå på eller av meddelandet i MGM-inställningarna."
+            }
+          ]
+        },
+        "da": {
+          "update": {
+            "title": "Opdatering tilgængelig",
+            "body": "Opdatering tilgængelig"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Flere detaljer i Kropsvægt",
+              "body": "Tilføj kropssammensætning, mål, billeder og noter efter behov. Lad MGM AI læse en målerapport, og kontrollér værdierne, før du registrerer dem."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Beskyt dine billeder i Kropsvægt",
+              "body": "Lås dine private billeder i Kropsvægt med Face ID, Touch ID eller din adgangskode. Nye private billeder krypteres før lagring i skyen: selv MGM kan ikke læse disse kopier. Billeder, du deler, er undtaget."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Apple Sundhed-træninger i Kost",
+              "body": "Se dine træninger og forbrændte kalorier, fold tilgængelige målinger ud, og vælg, om de skal tælle med i dit kaloriemål."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 og tid til at prøve moduler",
+              "body": "Aktivér et tredje modul med MGM Plus 1. På Basic og Plus 1 starter din første modulændring efter den indledende opsætning en prøveperiode på én time, efterfulgt af en lås på syv dage."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "AI-billedanalyse i baggrunden",
+              "body": "Når din billedanmodning er modtaget, fortsætter MGM AI behandlingen, selv om du forlader appen. Med notifikationer slået til får du besked, når resultatet er klar."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Skift mellem produktvarianter",
+              "body": "Swipe gennem tilknyttede smagsvarianter og størrelser. Hvert valg viser sit eget billede, portionsmuligheder og næringsværdier."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "En besked, når du når dit skridtmål",
+              "body": "Få en lykønskning, når MGM registrerer, at du har nået dit skridtmål, også efter en opdatering i baggrunden. Slå beskeden til eller fra i MGM-indstillinger."
+            }
+          ]
+        },
+        "no": {
+          "update": {
+            "title": "Oppdatering tilgjengelig",
+            "body": "Oppdatering tilgjengelig"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Flere detaljer i Kroppsvekt",
+              "body": "Legg til kroppssammensetning, mål, bilder og notater etter behov. La MGM AI lese en målerapport, og kontroller verdiene før du logger dem."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Beskytt bildene dine i Kroppsvekt",
+              "body": "Lås de private bildene dine i Kroppsvekt med Face ID, Touch ID eller koden på enheten din. Nye private bilder krypteres før de lagres i skyen: selv MGM kan ikke lese disse kopiene. Bilder du deler, er unntatt."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Apple Helse-treninger i Kosthold",
+              "body": "Se treningene dine og forbrente kalorier, åpne tilgjengelige målinger, og velg om de skal telle med i kalorimålet ditt."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 og tid til å prøve moduler",
+              "body": "Aktiver en tredje modul med MGM Plus 1. På Basic og Plus 1 starter den første modulendringen etter førstegangsoppsettet en prøveperiode på én time, etterfulgt av en lås på sju dager."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "AI-bildeanalyse i bakgrunnen",
+              "body": "Når bildeforespørselen din er mottatt, fortsetter MGM AI behandlingen når du forlater appen. Med varslinger slått på får du beskjed når resultatet er klart."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Bytt mellom produktvarianter",
+              "body": "Sveip gjennom tilknyttede smaker og størrelser. Hvert valg viser sitt eget bilde, porsjonsvalg og næringsverdier."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "En melding når du når skrittmålet",
+              "body": "Få en gratulasjon når MGM oppdager at du har nådd skrittmålet, også etter en oppdatering i bakgrunnen. Slå denne varslingen av eller på i MGM-innstillingene."
+            }
+          ]
+        },
+        "fi": {
+          "update": {
+            "title": "Päivitys saatavilla",
+            "body": "Päivitys saatavilla"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Lisää tietoja Kehonpainoon",
+              "body": "Lisää kehonkoostumus, kehon mitat, kuvat ja muistiinpanot tarpeen mukaan. Lue mittausraportti MGM AI:n avulla ja tarkista arvot ennen kirjaamista."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Suojaa Paino-moduulin kuvasi",
+              "body": "Lukitse Paino-moduulin yksityiset kuvasi Face ID:llä, Touch ID:llä tai laitteen pääsykoodilla. Uudet yksityiset kuvat salataan ennen pilvitallennusta: edes MGM ei voi lukea näitä pilvikopioita. Jakamasi kuvat eivät kuulu tähän suojaukseen."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Applen Terveys-apin harjoitukset Ravintoon",
+              "body": "Katso harjoituksesi ja kulutetut kalorit, avaa saatavilla olevat mittaustiedot ja valitse, lasketaanko ne mukaan kaloritavoitteeseesi."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 ja aikaa kokeilla moduuleja",
+              "body": "Aktivoi kolmas moduuli MGM Plus 1:llä. Basic- ja Plus 1 -tilauksissa ensimmäinen moduulimuutos käyttöönoton jälkeen aloittaa tunnin kokeilujakson. Sen jälkeen muutokset lukitaan seitsemäksi päiväksi."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Tekoälykuva-analyysi taustalla",
+              "body": "Kun kuvapyyntösi on vastaanotettu, MGM AI jatkaa käsittelyä, vaikka poistut sovelluksesta. Jos ilmoitukset ovat käytössä, saat ilmoituksen tuloksen valmistuttua."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Vaihda tuotevarianttien välillä",
+              "body": "Selaa pyyhkäisemällä saman tuotteen makuja ja kokoja. Jokaisella vaihtoehdolla on oma kuva, annosvaihtoehdot ja ravintoarvot."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Ilmoitus askeltavoitteen saavuttamisesta",
+              "body": "Saat onnittelun, kun MGM havaitsee sinun saavuttaneen askeltavoitteesi, myös taustapäivityksen jälkeen. Voit ottaa ilmoituksen käyttöön tai poistaa sen käytöstä MGM-asetuksissa."
+            }
+          ]
+        },
+        "cs": {
+          "update": {
+            "title": "Dostupná aktualizace",
+            "body": "Dostupná aktualizace"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Více podrobností v Tělesné hmotnosti",
+              "body": "Podle potřeby přidej složení těla, tělesné míry, fotky a poznámky. Nech MGM AI přečíst zprávu z měření a před zapsáním zkontroluj hodnoty."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Chraňte své fotografie v modulu Tělesná hmotnost",
+              "body": "Uzamkněte své soukromé fotografie v modulu Tělesná hmotnost pomocí Face ID, Touch ID nebo kódu zařízení. Nové soukromé fotografie se před uložením do cloudu zašifrují: ani MGM nemůže tyto cloudové kopie číst. Na sdílené fotografie se to nevztahuje."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Tréninky z Apple Zdraví ve Výživě",
+              "body": "Prohlédni si tréninky a spálené kalorie, rozbal dostupná měření a zvol, zda se mají započítat do tvého kalorického cíle."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 a čas na vyzkoušení modulů",
+              "body": "S MGM Plus 1 aktivuj třetí modul. U Basic a Plus 1 spustí první změna modulů po úvodním nastavení hodinové období na vyzkoušení, po kterém následuje sedmidenní uzamčení."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Analýza fotek pomocí AI na pozadí",
+              "body": "Jakmile je požadavek s fotkou přijat, MGM AI pokračuje ve zpracování i po opuštění aplikace. Pokud máš zapnutá oznámení, dostaneš zprávu, až bude výsledek připravený."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Přepínej mezi variantami produktu",
+              "body": "Přejetím procházej související příchutě a velikosti. Každá varianta zobrazuje vlastní fotku, možnosti porcí a výživové hodnoty."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Oznámení při dosažení cíle kroků",
+              "body": "Dostanete blahopřání, když MGM zjistí, že jste dosáhli cíle kroků, i po aktualizaci na pozadí. Oznámení můžete zapnout nebo vypnout v nastavení MGM."
+            }
+          ]
+        },
+        "ro": {
+          "update": {
+            "title": "Actualizare disponibilă",
+            "body": "Actualizare disponibilă"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Mai multe detalii în Greutate corporală",
+              "body": "Adaugă compoziția corporală, măsurători, fotografii și notițe după nevoie. Citește un raport de măsurare cu MGM AI și verifică valorile înainte de înregistrare."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Protejează-ți fotografiile din Greutate corporală",
+              "body": "Blochează fotografiile private din Greutate corporală cu Face ID, Touch ID sau codul dispozitivului. Fotografiile private noi sunt criptate înainte de stocarea în cloud: nici MGM nu poate citi acele copii. Fotografiile pe care le distribui sunt exceptate."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Antrenamentele Apple Sănătate în Alimentație",
+              "body": "Vezi antrenamentele și caloriile arse, extinde măsurătorile disponibile și alege dacă sunt incluse în obiectivul tău caloric."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 și timp să încerci modulele",
+              "body": "Activează un al treilea modul cu MGM Plus 1. Pe Basic și Plus 1, prima schimbare a modulelor după configurarea inițială începe o perioadă de probă de o oră, urmată de o blocare de șapte zile."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Analiza fotografiilor cu AI în fundal",
+              "body": "După ce cererea ta cu fotografie a fost primită, MGM AI continuă procesarea când ieși din aplicație. Cu notificările activate, primești un mesaj când rezultatul este gata."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Schimbă între variantele produselor",
+              "body": "Glisează printre aromele și dimensiunile asociate. Fiecare alegere afișează propria fotografie, opțiunile de porții și valorile nutriționale."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "O notificare când îți atingi obiectivul de pași",
+              "body": "Primești felicitări când MGM detectează că ți-ai atins obiectivul de pași, inclusiv după o actualizare în fundal. Activează sau dezactivează notificarea în setările MGM."
+            }
+          ]
+        },
+        "hu": {
+          "update": {
+            "title": "Frissítés érhető el",
+            "body": "Frissítés érhető el"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Több részlet a Testtömeg modulban",
+              "body": "Szükség szerint adj meg testösszetételt, testméreteket, fotókat és jegyzeteket. Olvastass be egy mérési jelentést az MGM AI segítségével, és rögzítés előtt ellenőrizd az értékeket."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Védd a Testsúly modulban tárolt fotóidat",
+              "body": "Zárold a Testsúly modul privát fotóit Face ID-val, Touch ID-val vagy a készülék jelkódjával. Az új privát fotók titkosítva kerülnek a felhőbe: ezeket a másolatokat még az MGM sem tudja olvasni. A megosztott fotókra ez nem vonatkozik."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Apple Egészség-edzések a Táplálkozásban",
+              "body": "Nézd meg az edzéseidet és az elégetett kalóriákat, nyisd le az elérhető mérési adatokat, és válaszd ki, hogy beleszámítanak-e a kalóriacélodba."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 és idő a modulok kipróbálására",
+              "body": "Az MGM Plus 1 csomaggal aktiválj egy harmadik modult. Basic és Plus 1 esetén a kezdeti beállítás utáni első modulváltás egyórás próbaidőt indít, amelyet hétnapos zárolás követ."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "AI-fotóelemzés a háttérben",
+              "body": "Miután a fotókérésed megérkezett, az MGM AI akkor is folytatja a feldolgozást, ha kilépsz az alkalmazásból. Bekapcsolt értesítések mellett üzenetet kapsz, amikor elkészült az eredmény."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Válts a termékváltozatok között",
+              "body": "Lapozz a kapcsolódó ízek és méretek között. Minden választás a saját fotóját, adagolási lehetőségeit és tápértékeit mutatja."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Értesítés a lépéscél elérésekor",
+              "body": "Gratuláló értesítést kapsz, amikor az MGM észleli, hogy elérted a lépéscélodat, akár háttérfrissítés után is. Az értesítést az MGM beállításaiban kapcsolhatod be vagy ki."
+            }
+          ]
+        },
+        "el": {
+          "update": {
+            "title": "Διαθέσιμη ενημέρωση",
+            "body": "Διαθέσιμη ενημέρωση"
+          },
+          "highlights": [
+            {
+              "id": "bodyweight-log-details",
+              "title": "Περισσότερες λεπτομέρειες στο Σωματικό βάρος",
+              "body": "Πρόσθεσε σύσταση σώματος, μετρήσεις, φωτογραφίες και σημειώσεις όποτε τις χρειάζεσαι. Διάβασε μια αναφορά μετρήσεων με το MGM AI και έλεγξε τις τιμές πριν τις καταγράψεις."
+            },
+            {
+              "id": "bodyweight-photo-privacy",
+              "title": "Προστάτεψε τις φωτογραφίες σου στο Σωματικό βάρος",
+              "body": "Κλείδωσε τις ιδιωτικές φωτογραφίες σου στο Σωματικό βάρος με Face ID, Touch ID ή τον κωδικό της συσκευής σου. Οι νέες ιδιωτικές φωτογραφίες κρυπτογραφούνται πριν αποθηκευτούν στο cloud: ούτε το MGM μπορεί να διαβάσει αυτά τα αντίγραφα. Οι φωτογραφίες που κοινοποιείς εξαιρούνται."
+            },
+            {
+              "id": "apple-health-workout-details",
+              "title": "Προπονήσεις Apple Υγεία στη Διατροφή",
+              "body": "Δες τις προπονήσεις σου και τις θερμίδες που έκαψες, άνοιξε τις διαθέσιμες μετρήσεις και επίλεξε αν θα συνυπολογίζονται στον στόχο θερμίδων σου."
+            },
+            {
+              "id": "plus-one-module-experiment",
+              "title": "MGM Plus 1 και χρόνος δοκιμής των ενοτήτων",
+              "body": "Ενεργοποίησε μια τρίτη ενότητα με το MGM Plus 1. Στα Basic και Plus 1, η πρώτη αλλαγή ενοτήτων μετά την αρχική ρύθμιση ξεκινά μια περίοδο δοκιμής μίας ώρας, με κλείδωμα επτά ημερών στη συνέχεια."
+            },
+            {
+              "id": "ai-photo-background-jobs",
+              "title": "Ανάλυση φωτογραφιών με AI στο παρασκήνιο",
+              "body": "Μόλις ληφθεί το αίτημα φωτογραφίας σου, το MGM AI συνεχίζει την επεξεργασία όταν φύγεις από την εφαρμογή. Με ενεργές ειδοποιήσεις, λαμβάνεις μήνυμα όταν το αποτέλεσμα είναι έτοιμο."
+            },
+            {
+              "id": "food-product-variants",
+              "title": "Εναλλαγή μεταξύ παραλλαγών προϊόντων",
+              "body": "Σύρε για να δεις τις σχετικές γεύσεις και μεγέθη. Κάθε επιλογή εμφανίζει τη δική της φωτογραφία, επιλογές μερίδας και διατροφικές τιμές."
+            },
+            {
+              "id": "steps-goal-notification",
+              "title": "Ειδοποίηση όταν πετυχαίνεις τον στόχο βημάτων",
+              "body": "Λάβε συγχαρητήρια όταν το MGM εντοπίσει ότι πέτυχες τον στόχο βημάτων σου, ακόμη και μετά από ενημέρωση στο παρασκήνιο. Ενεργοποίησε ή απενεργοποίησε την ειδοποίηση στις ρυθμίσεις MGM."
+            }
+          ]
+        }
+      },
+      "availableAt": "2026-10-04T23:31:39.575Z",
+      "expiresAt": "2027-01-02T15:28:18-08:00"
     }
   ]
 }
